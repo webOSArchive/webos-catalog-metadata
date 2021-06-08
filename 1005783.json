@@ -1,0 +1,66 @@
+{
+  "publicApplicationId": "com.messagingbypass.synergy",
+  "description": "This app does only one thing: it fools Synergy into thinking you have a valid Messaging account, so that you can get into the Messaging app without being prompted to create one. The Messaging app on the Touchpad can still be used when you're paired with a phone over Bluetooth -- this makes it easier to use. See the screenshots here, or in-app notes, for how to use.\n\nNote: this app hasn't been tested on phones, is not needed on phones, and while it probably wouldn't do any damage, I don't recommend you install it on phones.",
+  "version": "1.0.0",
+  "versionNote": "This app and the service that's packed with it are a kludge made by hacking at HP's SDK Sample Code. It has no other function, but as a proof-of-concept, it may be useful for adding other types of Synergy accounts in the future. Visit the restored SDK at sdk.webosarchive.com to learn more.",
+  "homeURL": "http://www.webosarchive.com/",
+  "supportURL": "http://sdk.webosarchive.com/",
+  "custsupportemail": "curator@webosarchive.com",
+  "custsupportphonenum": "",
+  "copyright": "2021, Jon Wise",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 19302,
+  "installSize": 19302,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2021-03-18T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": ["Messaging"],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.messagingbypass.synergy_1.0.0_all.ipk",
+  "free": true,
+  "touchpad_exclusive": true,
+  "images": {
+    "1": {
+      "screenshot": "1005783/screenshot1.png",
+      "thumbnail": "1005783/screenshot1.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005783/screenshot2.png",
+      "thumbnail": "1005783/screenshot2.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "3": {
+      "screenshot": "1005783/screenshot3.png",
+      "thumbnail": "1005783/screenshot3.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "4": {
+      "screenshot": "1005783/screenshot4.png",
+      "thumbnail": "1005783/screenshot4.png",
+      "orientation": "P",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.messagingbypass.synergy_1.0.0_all.ipk"
+}

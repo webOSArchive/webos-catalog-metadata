@@ -1,0 +1,60 @@
+{
+  "publicApplicationId": "com.accuweather.palm.purchased",
+  "description": "Curator's Note - As of April 1, 2021 this app is down after 4 months of working. A plan is underway to fix, but you can help. Visit the Forums or Support URL below to find out how.",
+  "version": "1.0.4",
+  "versionNote": "Stay up to date on weather conditions wherever you travel with AccuWeather Premium. Get the latest conditions and AccuWeather.com forecasts. Pan, zoom and animate radar or satellite imagery. Be alerted to severe weather warnings issued for your location (U.S. only). Or see how the weather will affect your health and daily activities with the lifestyle forecasts. With global coverage, it’s a weather center at your fingertips!",
+  "homeURL": "http://www.accuweather.com",
+  "supportURL": "https://forums.webosnation.com/hp-touchpad/332728-accuweather-com-stopped-working-exhibition-mode-2.html#post3457498",
+  "custsupportemail": "support@accuweather.com",
+  "custsupportphonenum": "814.235.8650",
+  "copyright": "© 2009 AccuWeather, Inc.",
+  "licenseURL": "",
+  "locale": "en_US",
+  "appSize": 1076266,
+  "installSize": 2593494,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2020-10-22T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 1.89,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.accuweather.palm.purchased-repack_1.0.4_all.ipk",
+  "free": false,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "thumbnail": "457/en/images/1/S/alert.png",
+      "screenshot": "457/en/images/1/L/alert.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    "2": {
+      "thumbnail": "457/en/images/2/S/radar.png",
+      "screenshot": "457/en/images/2/L/radar.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    "3": {
+      "thumbnail": "457/en/images/3/S/global_forecast.png",
+      "screenshot": "457/en/images/3/L/global_forecast.png",
+      "orientation": "P",
+      "device": "P"
+    }
+  },
+  "originalFileName": "com.accuweather.palm.purchased_1.0.5_all.ipk",
+  "originalAppId": 457,
+  "starRating": null
+}

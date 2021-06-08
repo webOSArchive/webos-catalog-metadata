@@ -1,0 +1,54 @@
+{
+  "publicApplicationId": "org.tectrasystems.prebook",
+  "description": "PreBook is a simple Facebook app that makes it easy to browse the site on your webOS device! It features several handy shortcuts to make navigation on small displays easier, and it only relies on the basic version of Facebook's website.",
+  "version": "1.6.1",
+  "versionNote": "1.6.0 - UI Tweaks, What's New Page, Auto Updater, scaling fixes for more phones sizes, brand new icon from Farhaddad!\r\n1.6.1 - UI improvements and new quick actions",
+  "homeURL": "https://tectrasystems.org/",
+  "supportURL": "https://tectrasystems.org/",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "Tectra Systems",
+  "licenseURL": "Creative Commons",
+  "locale": "en_US",
+  "appSize": 71510,
+  "installSize": 77824,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2021-04-10T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "org.tectrasystems.prebook_1.6.1_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005784/profile.png",
+      "thumbnail": "1005784/profile.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    "2": {
+      "screenshot": "1005784/menu.png",
+      "thumbnail": "1005784/menu.png",
+      "orientation": "P",
+      "device": "P"
+    }
+  },
+  "originalFileName": "org.tectrasystems.prebook_1.5.6_all.ipk"
+}

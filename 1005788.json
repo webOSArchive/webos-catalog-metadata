@@ -1,0 +1,72 @@
+{
+  "publicApplicationId": "com.palm.webos.sharespace",
+  "description": "Share Space is a brand new app for 2021 that creates a bridge between your webOS devices and the modern world.\r\nIt supports every feature you could want from webOS, and makes it easy to get content from your modern computer or phone onto your Pre, Veer, Pixi Plus or Touchpad. Some things you can do:\n\n- Update your digital photo frame from anywhere: send pictures to your Touchpad's Exhibition mode from any device with a web browser at https://share.webosarchive.com. When you turn on background downloads, Share Space will fetch new photos automatically and restart Exhibition to display them.\n\n- Share pictures or text between devices: open shared content on one device, then Touch2Share with another device to instantly share in a browser or in-app.\n\n- Quickly share pictures to Facebook or SMS, even if your network doesn't support MMS. When you add an image to your Share Space, you're given a tiny link that works great for sharing with modern devices -- its automatically added to your clipboard, but you can get the link at any time through the detail scene of the app.\n\n - Add social features to any app. Share Space is backed by an open source sharing service with an easy-to-use API that any app can use. See MeTube's recommendations as an example. You can use the community server, or host your own!",
+  "version": "1.0.1",
+  "versionNote": "- 1.0.0 - Initial release, includes Touch2Share, JustType integration, background downloads, Facebook friendly share links and much more.\r\n- 1.0.1 - Adds download button to detail scene, fixes a layout issue.",
+  "homeURL": "http://share.webosarchive.com/",
+  "supportURL": "http://www.webosarchive.com/",
+  "custsupportemail": "curator@webosarchive.com",
+  "custsupportphonenum": "",
+  "copyright": "Jon Wise and webOS Archive, 2021",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 456846,
+  "installSize": 1048576,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2021-05-29T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.palm.webos.sharespace_1.0.1_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005788/screenshot1.png",
+      "thumbnail": "1005788/screenshot1.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005788/screenshot2.png",
+      "thumbnail": "1005788/screenshot2.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "3": {
+      "screenshot": "1005788/screenshot3.png",
+      "thumbnail": "1005788/screenshot3.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "4": {
+      "screenshot": "1005788/screenshot4.png",
+      "thumbnail": "1005788/screenshot4.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "5": {
+      "screenshot": "1005788/screenshot5.png",
+      "thumbnail": "1005788/screenshot5.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.palm.webos.sharespace_1.0.0_all.ipk"
+}

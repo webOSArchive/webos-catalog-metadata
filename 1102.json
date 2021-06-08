@@ -1,0 +1,53 @@
+{
+  "publicApplicationId": "com.gameloft.app.letsgolf",
+  "description": "Entdecke das erste Familiengolfspiel für Palm Pre in angenehmer Atmosphäre zugänglich für jedermann mit 63 Löchern an 4 Orten in 3D und 4 anpassungsfähigen Charakteren .\n\n-63 Löcher an 4 verschiedenen Orten in 3D: Strand auf Fidschi, Berge in Amerika, ländliche Gegend in England und Lochs in Schottland.\n\n- 4 animierte, anpassungsfähige Charakter. Jeder Spieler hat eigene Schwächen und Stärken.\n\n- Variable Steuerung: Mit der fortgeschrittenen Steuerung spielst du wie in einer Sportsimulation und kannst dem Ball sogar Drall geben. Für einfaches Vergnügen und weniger Bogeys gibt es den normalen Modus (aber schummeln geht auch da nicht).\n\n*** Getestet auf: Pre, Pre2",
+  "version": "1.0.0",
+  "homeURL": "http://www.gameloft.com",
+  "supportURL": "http://www.gameloft.com",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "© 2009 Gameloft. All Rights Reserved.",
+  "licenseURL": "http://www.gameloft.com",
+  "locale": null,
+  "appSize": "58553500",
+  "installSize": "58553500",
+  "isEncrypted": null,
+  "adultRating": null,
+  "islocationbased": null,
+  "lastModifiedTime": null,
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": [],
+  "price": "3.99",
+  "currency": "USD",
+  "filename": "com.gameloft.app.letsgolf_1.0.0_all.ipk",
+  "free": false,
+  "images": [
+    {
+      "thumbnail": "com.gameloft.app.letsgolf/1.0.0/de/images/1/L/conv_ph_Lets_Golf_Palm_EN_1.png",
+      "screenshot": "com.gameloft.app.letsgolf/1.0.0/de/images/1/L/conv_ph_Lets_Golf_Palm_EN_1.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "com.gameloft.app.letsgolf/1.0.0/de/images/2/L/conv_ph_Lets_Golf_Palm_EN_2.png",
+      "screenshot": "com.gameloft.app.letsgolf/1.0.0/de/images/2/L/conv_ph_Lets_Golf_Palm_EN_2.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "com.gameloft.app.letsgolf/1.0.0/de/images/3/L/conv_ph_Lets_Golf_Palm_EN_3.png",
+      "screenshot": "com.gameloft.app.letsgolf/1.0.0/de/images/3/L/conv_ph_Lets_Golf_Palm_EN_3.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "com.gameloft.app.letsgolf/1.0.0/de/images/4/L/conv_ph_Lets_Golf_Splash.png",
+      "screenshot": "com.gameloft.app.letsgolf/1.0.0/de/images/4/L/conv_ph_Lets_Golf_Splash.png",
+      "orientation": "P",
+      "device": "P"
+    }
+  ],
+  "originalFileName": "com.gameloft.app.letsgolf_all.ipk",
+  "starRating": 3
+}

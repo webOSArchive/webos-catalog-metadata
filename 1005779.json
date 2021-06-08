@@ -1,0 +1,66 @@
+{
+  "publicApplicationId": "com.jonandnic.checkmate",
+  "description": "Your To Do list -- anywhere! Check Mate is a web service that was made with retro devices in mind. It keeps your To Do list in a simple file, and provides a web client that you can use on virtually any web browser from 1997 through 2021, and now it has a first class webOS client! Get your hit of dopamine as you check off your daily tasks, with a delightful webOS experience. Everything you'd expect from a Mojo app is there, including swipe to delete, re-orderable tasks, and even a customizable sound scheme. And if you don't have your Pre or Touchpad handy, you can manage your To Do list on a modern computer or mobile device.\r\n\r\nThe hosted version of the service is provided by webOS Archive, at http://checkmate.webosarchive.com -- or you can host your own server on anything that can run PHP.",
+  "version": "1.2.3",
+  "versionNote": "Version 1.0.0 - Initial public release. This version doesn't support creating a new account, so you'll have to visit the website to do that part, but everything else works in-app. I'll update soon to resolve this one missing piece of the experience...\r\nVersion 1.1.0 - Adds support for webOS Just Type task creation, enables quick complete or uncomplete by keeping checkmark partly visible, fixes sort bugs,\r\nVersion 1.2.0 - Adds the ability to create a new account from within the app\r\nVersion 1.2.1 - Support the new row feature of the Mojo list widget.\r\nVersion 1.2.2 - Now you can just start typing to create a new task! Also added ability to Copy notes to clipboard\r\nVersion 1.2.3 - Fix a bad keyboard handler bug that could prevent login",
+  "homeURL": "http://checkmate.webosarchive.com",
+  "supportURL": "http://www.webosarchive.com",
+  "custsupportemail": "curator@webosarchive.com",
+  "custsupportphonenum": "",
+  "copyright": "2021, jonandnic.com",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 507596 ,
+  "installSize": 507904 ,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2021-04-26T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.jonandnic.checkmate_1.2.3_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005779/Screenshot1.png",
+      "thumbnail": "1005779/Screenshot1.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    "2": {
+      "screenshot": "1005779/Screenshot2.png",
+      "thumbnail": "1005779/Screenshot2.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    "3": {
+      "screenshot": "1005779/Screenshot3.png",
+      "thumbnail": "1005779/Screenshot3.png",
+      "orientation": "P",
+      "device": "p"
+    },
+    "4": {
+      "screenshot": "1005779/Screenshot4.png",
+      "thumbnail": "1005779/Screenshot4.png",
+      "orientation": "P",
+      "device": "p"
+    }
+  },
+  "originalFileName": "com.jonandnic.checkmate_1.0.0_all.ipk"
+}

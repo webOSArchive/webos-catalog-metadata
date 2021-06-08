@@ -1,0 +1,48 @@
+{
+  "publicApplicationId": "com.jonandnic.metube",
+  "description": "MeTube brings YouTube and Reddit videos to webOS! It uses a service layer based on youtube-dl and work by Alex Shnitman (alexta69 on Github) and provided by webOS Archive to fetch YouTube or Reddit videos* into a webOS friendly format, then launches the built-in video player to stream the video. The video is ephemeral: its not persisted, and not downloadable, so everything is legal -- webOS just needs a little help. \r\n\nMeTube is good for shorter videos that don't take long for the server to process. Ted Talks, music videos, product reviews or unboxings, or other clips all work great! Full length videos probably won't work. There are a bunch of other caveats, since the service-side wasn't really designed for this use-case, and the phones are picky about video format, and the TouchPad occasionally runs out of memory... but for simple use, it does the job! Give it a try, and send me feedback!\r\n\r\n*Note only Reddit videos hosted by Reddit are supported -- imgur and other hosts will not work.",
+  "version": "1.7.2",
+  "versionNote": "1.0.0 - Touchpad general release\r\n1.0.1 - Required security update.\r\n1.0.2 - Added support for Pre2 and Veer phones. Improved search bar now supports YouTube short links.\r\n1.0.3 - Configurable settings, added support for Pre3, layout improvements on all phones.\r\n1.0.4 - Features for self-hosting, beta support for webOS 1.x devices, layout improvements.\r\n1.1.0 - Support for all webOS devices, bug-fixes for self-hosters, new playback strategy options.\r\n1.1.1 - Support for the webOS Just Type search feature\r\n1.2.0 - Popular videos feature, layout tweaks, video launcher improvements.\r\n1.2.1 - Fix an issue where the spinner doesn't show on second search\r\n1.3.0 - Add video date, more layout fixes.\r\n1.4.0 - Get video duration and resolution on tap, strip emojis. Uses corresponding back-end update.\r\n1.5.0 - Adds support for Reddit videos.\r\n1.5.1 - Adds support for URL launch: now you can launch MeTube directly from any YouTube link (requires URL Assist)\r\n1.5.2 - Bug fixes for Target launch feature, adds experimental Quality toggle for HD Videos.\r\n1.5.3 - Awesome new theme, enter key submits.\r\n1.6.0 - Now supports server side conversion and file targets for more reliable playback.\r\n1.7.0 - Share recommended videos with other webOS users using the new Sharing Service!\r\n1.7.1 - Resolves a bug introduced by sharing service that could prevent a launch query video from playing.\r\n1.7.2 - Updates API calls for release version of the Sharing Service.",
+  "homeURL": "http://metube.webosarchive.com",
+  "supportURL": "http://www.webosarchive.com",
+  "custsupportemail": "curator@webosarchive.com",
+  "custsupportphonenum": "",
+  "copyright": "2021, webosarchive.com",
+  "licenseURL": "MIT, GNU Affero GPL",
+  "locale": "en_US",
+  "appSize": 100508,
+  "installSize": 102400,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2021-03-31T15:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.jonandnic.metube_1.7.2_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005774/screenshot1.png",
+      "thumbnail": "1005774/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.jonandnic.metube_0.1.0_all.ipk"
+}

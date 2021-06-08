@@ -1,0 +1,59 @@
+{
+  "publicApplicationId": "com.glu.app.ghero5",
+  "description": "Dreh die Verstärker auf, tritt ins Rampenlicht und regiere die Bühne auf deinem Handy. Lass es krachen, indem du bis zu 20 der heißesten, atemberaubendsten Stücke von Kult-Rockbands spielst und bring die Menge mit Lead-Gitarre, Bassgitarre und Schlagzeug zum Rasen. Mit Stücken von Blink 182, No Doubt, Nirvana, Vampire Weekend, Sublime, Bush, David Bowie und anderen beliebten Bands. Dies ist das umfangreichste, umfassendste Rock 'n' Roll-Spiel auf dem Handy – von der Videospielfranchise Nr. 1. Lass den Rockstar in dir raus!\n\n• Spiele zu allen Songs Gitarre, Schlagzeug und Bass! \n• Insgesamt bis zu 20 neue Songs von Beginn an (die Anzahl der Songs kann je nach Handset variieren)\n• Spiele als deine Lieblingsfigur an verschiedenen Schauplätzen auf der ganzen Welt, z. B. in San Francisco, Kairo und der U-Bahn in New York City. (Anzahl der Schauplätze kann je nach Handset variieren)\n• Zusätzliche herunterladbare MP3-Funktion für bessere Qualität der Musikstücke (Verfügbarkeit der Funktion abhängig von Handset und Mobilfunkbetreiber)\n• Schalte 4 zusätzliche Gitarren und Schlagzeuge frei, verdiene dir Erfolge und brich Rekorde!\n• Prüfe deine Fertigkeiten mit den zwei Spielmodi und drei Schwierigkeitseinstellungen, die für endlosen Spielspaß sorgen.\n• Animierte Rocker, Zuschauer und Schauplatzeffekte geben dir das Gefühl eine echten Rockstars.\n",
+  "version": "1.1.1",
+  "homeURL": "http://www.glu.com/support",
+  "supportURL": "http://www.glu.com/support",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "© 2009 Activision Publishing, Inc.",
+  "licenseURL": "http://www.glu.com/support",
+  "locale": null,
+  "appSize": "3583028",
+  "installSize": "3583028",
+  "isEncrypted": null,
+  "adultRating": null,
+  "islocationbased": null,
+  "lastModifiedTime": null,
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": [],
+  "price": "7.99",
+  "currency": "USD",
+  "filename": "com.glu.app.ghero5_1.1.1_all.ipk",
+  "free": false,
+  "images": [
+    {
+      "thumbnail": "1911/de/images/1/L/screen1.png",
+      "screenshot": "1911/de/images/1/L/screen1.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "1911/de/images/2/L/screen3.png",
+      "screenshot": "1911/de/images/2/L/screen3.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "1911/de/images/3/L/screen4.png",
+      "screenshot": "1911/de/images/3/L/screen4.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "1911/de/images/4/L/screen5.png",
+      "screenshot": "1911/de/images/4/L/screen5.png",
+      "orientation": "P",
+      "device": "P"
+    },
+    {
+      "thumbnail": "1911/de/images/5/L/screen6.png",
+      "screenshot": "1911/de/images/5/L/screen6.png",
+      "orientation": "P",
+      "device": "P"
+    }
+  ],
+  "originalFileName": "com.glu.app.ghero5_1.1.1_all.ipk",
+  "starRating": 2
+}

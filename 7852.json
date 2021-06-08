@@ -1,0 +1,67 @@
+{
+  "publicApplicationId": "ca.canuckcoding.internalz",
+  "description": "Wouldn't you like to be able to move around and manage the files stored on your device, without having to resort to USB Mode? Here's your solution!\n\nInternalz is the premier file manager for webOS. Moving around your music, opening downloaded files, & much more. A long-time homebrew graduate, this app is filled to the brim with features:\n\n- Full access to every file and directory in the USB storage area\n- Open, rename, move, copy, and delete files and directories\n- Hide files and directories from webOS apps\n- Simple and intuitive to use\n- Support for webOS gestures\n- Built-in image viewer\n- Built-in text editor\n- Plenty of configurable options\n- Integrated video tutorial series\n\nOh, and best of all, it fully supports English, French, Italian, German, Spanish, and Simplified Chinese.\n\n\nIf you have any questions or issues, please contact me via email or on Twitter @JayCanuck",
+  "versionNote": "",
+  "homeURL": "http://canuckcoding.ca",
+  "supportURL": "http://canuckcoding.ca",
+  "custsupportemail": "support@canuckcoding.ca",
+  "custsupportphonenum": "",
+  "copyright": "Copyright 2011 Jason Robitaille",
+  "licenseURL": "",
+  "locale": "en_US",
+  "installSize": 5111808,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2012-06-11T21:43:59-04:00",
+  "mediaLink": "http://www.youtube.com/watch?v=ZrPoUISNwhw",
+  "mediaIcon": "http://img.youtube.com/vi/ZrPoUISNwhw/2.jpg",
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 3.99,
+  "currency": "USD",
+  "isAdvertized": false,
+  "free": false,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "thumbnail": "7852/internalz_1.png",
+      "screenshot": "7852/internalz_1.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "2": {
+      "thumbnail": "7852/internalz_2.png",
+      "screenshot": "7852/internalz_2.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "3": {
+      "thumbnail": "7852/internalz_3.png",
+      "screenshot": "7852/internalz_3.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "4": {
+      "thumbnail": "7852/internalz_4.png",
+      "screenshot": "7852/internalz_4.png",
+      "orientation": "P",
+      "device": "T"
+    }
+  },
+  "originalFileName": "ca.canuckcoding.internalz_1.0.1_all.ipk",
+  "starRating": 4,
+  "version": "1.1.2",
+  "filename": "ca.canuckcoding.internalz_1.1.2_all.ipk",
+  "appSize": "341184"
+}
