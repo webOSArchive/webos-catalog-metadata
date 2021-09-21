@@ -2,7 +2,7 @@
   "publicApplicationId": "com.accuweather.palm",
   "description": "AccuWeather allows you to weatherproof your day by keeping you up to date on weather conditions wherever you travel. Obtain detailed information for any location worldwide. Enter and store your most accessed locations to retrieve the latest conditions, radar or satellite, and forecasts from AccuWeather.com. Be alerted to severe weather warnings issued for your location, and stay informed of how the weather will affect your health and daily activities. It’s a weather center at your fingertips!",
   "version": "1.0.6",
-  "versionNote": "",
+  "versionNote": "There is a patched version of the Premium version app in the Revisionist History section, which is recommended for all users. This version is posted only for historical purposes: it has the lowest ID in the preserved catalog.",
   "homeURL": "http://www.accuweather.com",
   "supportURL": "http://www.accuweather.com/contact.asp",
   "custsupportemail": "support@accuweather.com",
