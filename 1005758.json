@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.accuweather.palm.purchased",
-  "description": "Curator's Note - As of April 1, 2021 this app is down after 4 months of working. A plan is underway to fix, but you can help. Visit the Forums or Support URL below to find out how.",
+  "description": " Curator's Note - As of June 8, 2021 this app is working well globally. Plans are underway to maintain functionality in case the API goes down.",
   "version": "1.0.4",
   "versionNote": "Stay up to date on weather conditions wherever you travel with AccuWeather Premium. Get the latest conditions and AccuWeather.com forecasts. Pan, zoom and animate radar or satellite imagery. Be alerted to severe weather warnings issued for your location (U.S. only). Or see how the weather will affect your health and daily activities with the lifestyle forecasts. With global coverage, it’s a weather center at your fingertips!",
   "homeURL": "http://www.accuweather.com",
