@@ -7,7 +7,7 @@
   "custsupportphonenum": "",
   "copyright": "© Copyright 2010 Glu Mobile",
   "licenseURL": "http://www.glu.com/support",
-  "locale": null, "appSize":"55786664",
+  "locale": null, 
   "installSize": "55786664",
   "isEncrypted": null,
   "adultRating": null,
@@ -55,5 +55,5 @@
   "starRating": 2,
   "version": "100.0.0",
   "filename": "com.glu.app.famguy_1.0.0_all.ipk",
-  "appSize": "0"
+  "appSize": "55786664"
 }
