@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.gameloft.app.uno",
-  "description": "On all devices, you'll need to reboot after install.\n\nGet ready to call \"UNO\" on your Palm Pre!  Play the classic card game that's #1 for fun with friends and family. Playing UNO™ has never been so fun and easy, thanks to a brand new gameplay system! Simply drag & drop cards using your finger on the screen for intuitive control, and be the first to get rid of all your cards.   - The #1 card game for friends and family fun recreated with the game’s classic identity and rules that are easy enough for anyone to understand!  - Enjoy unique multiplayer modes! Play with your friends through a local Wi-Fi connection, or go online to play 24/7 with people from all over the world (through 3G or Wi-Fi connection) - Allows for customizing the game rules and discovering new ways to play UNO™ like “UNO 7-0”, “UNO Challenge”, “Jump In” and many others.  - Progress through increasingly difficult challenges in Tournament Mode to collect prizes and unlock colorful deck themes to give the game a fresher look. - All your favorite Action Cards are here: Wild, Reverse, Draw 2 and more!   Ideal for fans of board and card games.  Follow the official Twitter account to get more info about the game: http://twitter.com/UNO_Gameloft",
+  "description": "Curator's Note - On all devices, you'll need to reboot after install.\n\nGet ready to call \"UNO\" on your Palm Pre!  Play the classic card game that's #1 for fun with friends and family. Playing UNO™ has never been so fun and easy, thanks to a brand new gameplay system! Simply drag & drop cards using your finger on the screen for intuitive control, and be the first to get rid of all your cards.   - The #1 card game for friends and family fun recreated with the game’s classic identity and rules that are easy enough for anyone to understand!  - Enjoy unique multiplayer modes! Play with your friends through a local Wi-Fi connection, or go online to play 24/7 with people from all over the world (through 3G or Wi-Fi connection) - Allows for customizing the game rules and discovering new ways to play UNO™ like “UNO 7-0”, “UNO Challenge”, “Jump In” and many others.  - Progress through increasingly difficult challenges in Tournament Mode to collect prizes and unlock colorful deck themes to give the game a fresher look. - All your favorite Action Cards are here: Wild, Reverse, Draw 2 and more!   Ideal for fans of board and card games.  Follow the official Twitter account to get more info about the game: http://twitter.com/UNO_Gameloft",
   "version": "1.1.6",
-  "versionNote": "Curator's Note: This PDK game has to be patched to work on Pre3 and TouchPad. See the support URL for details.",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "https://forums.webosnation.com/hp-pre-3/307444-make-apps-fit-whole-screen-pre3.html",
   "custsupportemail": "support@gameloft.com",
@@ -31,7 +31,7 @@
   "price": 4.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.gameloft.app.uno_1.1.6_all.ipk",
+  "filename": "com.gameloft.app.uno_1.1.6_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
