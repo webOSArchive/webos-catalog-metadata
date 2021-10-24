@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.gameloft.app.bia2",
-  "description": "The highly acclaimed Brothers in Arms series returns for its most compelling battle yet amidst the fires of WWII.\n\nJOIN YOUR ALLIES ONLINE\nChallenge your friends to multiplayer battles on a variety of five maps in 3 different modes (Free For All, Team Deathmatch, Domination). \n\nA FIGHT ACROSS THE GLOBE\nExperience every front of the war with battles raging across 5 locations and 13 levels: Pacific, Normandy, North Africa, Germany, Sicily.\n\nWAR MACHINES\nTake control of 3 different vehicles including the tank, off-road vehicle or glider to overrun your opponents - or to make a daring escape. You can even jump behind the vehicle turret to lay waste to foes with the machine gun.\n\nTHE BATTLE COMES TO LIFE\nThe stunning graphics and authentic settings are inspired by real life battlefields from WWII and created in detailed 3D.\n\nAN EPIC EXPERIENCE\nWitness compelling cinematic moments with more interaction between you and your squad members that deepens the gameplay.\n\nAN ARSENAL AT YOUR DISPOSAL\nGrab a wide variety of historically accurate weapons including machine guns, bazookas, sniper rifles and flamethrowers.\n\n- Tested on Pre, Pre2",
+  "description": "Curator's Note - Recently patched to play on TouchPad!\r\nThe highly acclaimed Brothers in Arms series returns for its most compelling battle yet amidst the fires of WWII.\n\nJOIN YOUR ALLIES ONLINE\nChallenge your friends to multiplayer battles on a variety of five maps in 3 different modes (Free For All, Team Deathmatch, Domination). \n\nA FIGHT ACROSS THE GLOBE\nExperience every front of the war with battles raging across 5 locations and 13 levels: Pacific, Normandy, North Africa, Germany, Sicily.\n\nWAR MACHINES\nTake control of 3 different vehicles including the tank, off-road vehicle or glider to overrun your opponents - or to make a daring escape. You can even jump behind the vehicle turret to lay waste to foes with the machine gun.\n\nTHE BATTLE COMES TO LIFE\nThe stunning graphics and authentic settings are inspired by real life battlefields from WWII and created in detailed 3D.\n\nAN EPIC EXPERIENCE\nWitness compelling cinematic moments with more interaction between you and your squad members that deepens the gameplay.\n\nAN ARSENAL AT YOUR DISPOSAL\nGrab a wide variety of historically accurate weapons including machine guns, bazookas, sniper rifles and flamethrowers.\n\n- Tested on Pre, Pre2", "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "version": "1.0.5",
   "homeURL": "http://www.gameloft.com/support.php",
   "supportURL": "http://www.gameloft.com/support.php",
@@ -20,7 +20,7 @@
   "attributes": [],
   "price": "4.99",
   "currency": "USD",
-  "filename": "com.gameloft.app.bia2_1.0.5_all.ipk",
+  "filename": "com.gameloft.app.bia2_1.0.5_patched_all.ipk",
   "free": false,
   "images": [
     {

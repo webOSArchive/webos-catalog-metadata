@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.ea.app.sims",
-  "description": "LONG LIVE THE SIMS!  The circle of life is infinite in The SimsTM 3. So savor endless hours of entertainment, anytime, anywhere.  CREATE A SIM Make your Sim neurotic, funny, or shy. Choose your Sim’s clothing and accessories.       EXPLORE NEW LOCATIONS Lose yourself in the amazing 3D open-world environment and discover what kind of character your Sim will be.   KEEP ‘EM SATISFIED Fulfill your Sim's basic needs like eating and sleeping, and increase the number of activities you can do together.  DREAM BIG Unlock 73 goals and wishes for your Sim to help it reach its full potential.  CHECK OUT OUR OTHER GREAT GAMES:  MONOPOLY Classic, TETRIS®, SCRABBLE, Sudoku, & Need for Speed™ Undercover ",
+  "description": "Recently patched to work on TouchPad!\r\nLONG LIVE THE SIMS!  The circle of life is infinite in The SimsTM 3. So savor endless hours of entertainment, anytime, anywhere.  CREATE A SIM Make your Sim neurotic, funny, or shy. Choose your Sim’s clothing and accessories.       EXPLORE NEW LOCATIONS Lose yourself in the amazing 3D open-world environment and discover what kind of character your Sim will be.   KEEP ‘EM SATISFIED Fulfill your Sim's basic needs like eating and sleeping, and increase the number of activities you can do together.  DREAM BIG Unlock 73 goals and wishes for your Sim to help it reach its full potential.  CHECK OUT OUR OTHER GREAT GAMES:  MONOPOLY Classic, TETRIS®, SCRABBLE, Sudoku, & Need for Speed™ Undercover ",
   "version": "20.0.26",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.eamobile.com",
   "supportURL": "http://support.eamobile.com",
   "custsupportemail": "help@eamobile.com",
@@ -31,7 +31,7 @@
   "price": 9.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.ea.app.sims_20.0.26_all.ipk",
+  "filename": "com.ea.app.sims_20.0.26_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

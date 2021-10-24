@@ -2,7 +2,7 @@
   "publicApplicationId": "com.ea.app.gol.pre.na.efigs",
   "description": "GIVE THE CLASSIC BOARD GAME A NEW SPIN ON PALM PRE! Navigate animated tokens through winding roads and lush landscapes as you Pass ‘N Play with up to 3 friends. What does your future hold? Spin the wheel! THE GAME OF LIFE is full of possibilities!  CHECK OUT OUR OTHER GREAT GAMES:  TETRIS®, SCRABBLE, The Sims™ 3, MONOPOLY, RISK, Sudoku, and Need for Speed™ Undercover",
   "version": "1.1.30",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.eamobile.com",
   "supportURL": "http://support.eamobile.com",
   "custsupportemail": "help@eamobile.com",
@@ -31,7 +31,7 @@
   "price": 4.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.ea.app.gol.pre.na.efigs_1.1.30_all.ipk",
+  "filename": "com.ea.app.gol.pre.na.efigs_1.1.30_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

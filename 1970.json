@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.gameloft.app.dungeonhunter",
-  "description": "When the darkness awoke, evil flooded over the land of Gothicus. Dispel the darkness in your realm, uncover your memory about terrible events and fight the evil queen who tyrannizes the kingdom… the queen you loved. Dungeon Hunter is a 3D epic quest set in a dark fantasy world, in the tradition of the most successful action RPGs.  - Discover the enormous world of Gothicus and achieve different types of quests and missions: explore, kill, protect, find special items… 5 faeries, each with their own personality, will help you, providing protection, powers and advice.  - Create your own character: choose his class from Rogue (to act stealthily), Knight (to use the blade as your favorite weapon) or Mage (to perform the most powerful magic).   - Evolve and progress along your adventure. Gain experience points by killing enemies or succeeding in certain quests, and choose how to distribute them according to the skills you want to favor.  - Tons of items, weapons and armors to find or buy from the merchant. They will change the look and abilities of your character.   - A great gameplay experience (hack ‘n’ slash) for real-time fights, providing a heavy dose of fun for everybody.  Play this unique action RPG for hours! Defeat the forces of evil, by magic and by sword, and finally face your destiny.",
+  "description": "Curator's Note - Recently patched to play on TouchPad!\r\nWhen the darkness awoke, evil flooded over the land of Gothicus. Dispel the darkness in your realm, uncover your memory about terrible events and fight the evil queen who tyrannizes the kingdom… the queen you loved. Dungeon Hunter is a 3D epic quest set in a dark fantasy world, in the tradition of the most successful action RPGs.  - Discover the enormous world of Gothicus and achieve different types of quests and missions: explore, kill, protect, find special items… 5 faeries, each with their own personality, will help you, providing protection, powers and advice.  - Create your own character: choose his class from Rogue (to act stealthily), Knight (to use the blade as your favorite weapon) or Mage (to perform the most powerful magic).   - Evolve and progress along your adventure. Gain experience points by killing enemies or succeeding in certain quests, and choose how to distribute them according to the skills you want to favor.  - Tons of items, weapons and armors to find or buy from the merchant. They will change the look and abilities of your character.   - A great gameplay experience (hack ‘n’ slash) for real-time fights, providing a heavy dose of fun for everybody.  Play this unique action RPG for hours! Defeat the forces of evil, by magic and by sword, and finally face your destiny.",
   "version": "1.0.3",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "http://www.gameloft.com/support.php",
   "custsupportemail": "support@gameloft.com",
@@ -31,7 +31,7 @@
   "price": 4.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.gameloft.app.dungeonhunter_1.0.3_all.ipk",
+  "filename": "com.gameloft.app.dungeonhunter_1.0.3_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

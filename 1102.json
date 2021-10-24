@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "com.gameloft.app.letsgolf",
-  "description": "Entdecke das erste Familiengolfspiel für Palm Pre in angenehmer Atmosphäre zugänglich für jedermann mit 63 Löchern an 4 Orten in 3D und 4 anpassungsfähigen Charakteren .\n\n-63 Löcher an 4 verschiedenen Orten in 3D: Strand auf Fidschi, Berge in Amerika, ländliche Gegend in England und Lochs in Schottland.\n\n- 4 animierte, anpassungsfähige Charakter. Jeder Spieler hat eigene Schwächen und Stärken.\n\n- Variable Steuerung: Mit der fortgeschrittenen Steuerung spielst du wie in einer Sportsimulation und kannst dem Ball sogar Drall geben. Für einfaches Vergnügen und weniger Bogeys gibt es den normalen Modus (aber schummeln geht auch da nicht).\n\n*** Getestet auf: Pre, Pre2",
-  "version": "1.0.0",
+  "description": "Discover the first family golf game for Palm Pre in a pleasant atmosphere accessible to everyone with 63 holes in 4 locations in 3D and 4 adaptable characters. \r\n-63 holes in 4 different locations in 3D: beach in Fiji, mountains in America, rural area in England and Lochs in Scotland. \r\n- 4 animated, adaptable characters. Every player has their own weaknesses and strengths. \r\n- Variable controls: With the advanced controls you play like in a sports simulation and you can even give the ball a spin. For simple fun and less bogeys there is the normal mode (but cheating is not possible either). \r\n *** Tested on: Pre, Pre2",
+  "version": "1.0.0", "versionNote":"Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "http://www.gameloft.com",
   "custsupportemail": "",
@@ -20,7 +20,7 @@
   "attributes": [],
   "price": "3.99",
   "currency": "USD",
-  "filename": "com.gameloft.app.letsgolf_1.0.0_all.ipk",
+  "filename": "com.gameloft.app.letsgolf_1.0.0_patched_all.ipk",
   "free": false,
   "images": [
     {

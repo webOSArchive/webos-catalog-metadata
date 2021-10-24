@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.gameloft.app.blades",
-  "description": "The first full 3D arcade fighting game available for your Palm Pre!     Prove your bravery & establish your own fighting style through epic duels to cast your name among the greatest heroes, and be remembered in history.     Enjoy an explosive and accessible fighting experience thanks to an arcade-style gameplay.     Blades of Fury is the ultimate one-on-one fighting game, offering numerous game modes, and a wide array of playable fighters and fighting combinations.     - 10 characters, each with specific characteristics:  - Own weapons, unique range of attacks and combos, two costumes, and a personal background story and motivations to engage in battle.  - Each fighter has about 20 different attacks & combos  - Multiple clinch tactics with a large selection of moves: Attack, dodge, guard, counterattack, combo, jump, break armor, magic attack, crouch, step aside, roll and more!  - 10 arenas that take you to unusual, yet sumptuous locations, each with its own unique atmosphere  - 4 single-player game modes: Story, Arcade, Survival, and Practice  - Two control schemes providing virtual buttons to tap or drag  - One of the most eye-catching games available, with gorgeous, full 3D graphics and smooth fighting animations.     Follow us on twitter.com/Gameloft",
+  "description": "Curator's Note - Recently patched to play on TouchPad!\r\nThe first full 3D arcade fighting game available for your Palm Pre!     Prove your bravery & establish your own fighting style through epic duels to cast your name among the greatest heroes, and be remembered in history.     Enjoy an explosive and accessible fighting experience thanks to an arcade-style gameplay.     Blades of Fury is the ultimate one-on-one fighting game, offering numerous game modes, and a wide array of playable fighters and fighting combinations.     - 10 characters, each with specific characteristics:  - Own weapons, unique range of attacks and combos, two costumes, and a personal background story and motivations to engage in battle.  - Each fighter has about 20 different attacks & combos  - Multiple clinch tactics with a large selection of moves: Attack, dodge, guard, counterattack, combo, jump, break armor, magic attack, crouch, step aside, roll and more!  - 10 arenas that take you to unusual, yet sumptuous locations, each with its own unique atmosphere  - 4 single-player game modes: Story, Arcade, Survival, and Practice  - Two control schemes providing virtual buttons to tap or drag  - One of the most eye-catching games available, with gorgeous, full 3D graphics and smooth fighting animations.     Follow us on twitter.com/Gameloft",
   "version": "1.0.2",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "http://www.gameloft.com/support.php",
   "custsupportemail": "support@gameloft.com",
@@ -31,7 +31,7 @@
   "price": 4.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.gameloft.app.blades_1.0.2_all.ipk",
+  "filename": "com.gameloft.app.blades_1.0.2_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

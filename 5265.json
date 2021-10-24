@@ -2,7 +2,7 @@
   "publicApplicationId": "com.ea.app.risk",
   "description": "GET THE ORIGINAL GAME OF STRATEGIC CONQUEST! Strategize with the same rule set as the classic board game and dominate the world! Mobilize against computer-driven enemies, each featuring unique strategies and even emotional responses. ** CHECK OUT OUR OTHER GREAT GAMES:  TETRIS®, SCRABBLE, The Sims™ 3, MONOPOLY, Sudoku & Need for Speed™ Undercover. **",
   "version": "1.0.26",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.eamobile.com",
   "supportURL": "http://support.eamobile.com",
   "custsupportemail": "help@eamobile.com",
@@ -31,7 +31,7 @@
   "price": 6.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.ea.app.risk_1.0.26_all.ipk",
+  "filename": "com.ea.app.risk_1.0.26_patched_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
