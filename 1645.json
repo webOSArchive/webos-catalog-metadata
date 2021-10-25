@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "com.gameloft.app.tennis",
   "description": "On the heels of the award-winning NFL 2010 and Let’s Golf, Gameloft now releases the best 3D tennis game on Palm Pre!  Live the life of a professional player on a world tour where the only goal is to become number one!  • 8 players entirely modeled in highly detailed 3D graphics. • From Paris to New York to Stockholm, play in 7 stadiums on 3 different surfaces – clay, grass and synthetic – each providing a different experience.  • Controls making the most of the Palm Pre capabilities. • Serve by tilting your Palm Pre! • A wide array of strokes for a deeper experience: Lob, drop shot, smash and more. • A Career mode that lets you join a tennis tour just like a real professional player.  Recommended for fans of arcade and simulation sports games.  Published and distributed by Gameloft.",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "http://www.gameloft.com/support.php",
   "custsupportemail": "support@gameloft.com",
@@ -60,6 +60,6 @@
   "originalFileName": "com.gameloft.app.tennis_1.0.5_all.ipk",
   "starRating": 3,
   "version": "1.1.0",
-  "filename": "com.gameloft.app.tennis_1.1.0_all.ipk",
+  "filename": "com.gameloft.app.tennis_1.1.0_patched_all.ipk",
   "appSize": "83055654"
 }

@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "com.gameloft.app.realsoccer2010",
   "description": "Live the soccer season to the max and battle for the Cup with Real Soccer, the benchmark for mobile soccer games.  A HUGE SOCCER GAME - 8 leagues, 245 teams with real player names thanks to the FIFPro license - Voice commentary for a TV-like broadcast of the match - 14 stadiums entirely modeled in 3D, down to the slightest detail   EXCLUSIVE GAME MODES - Enter The Legend: Play as your favorite player on the field throughout the entire match and manage your career as a pro soccer star - Club Master: Take part in a whole season with your favorite team and strengthen it through trades   SOCCER RSS FEED A soccer RSS feed to get all the latest soccer scores directly from the game’s main menu.   ONLINE UPDATES Download the most recent player database to always keep your game up to date with the latest transfer news.   INTUITIVE CONTROLS - Responsive touch pad for a more precise soccer experience. - Easily select your player by touching him on the screen.   Get ready for a total soccer experience!  ------------------------------------------  Are you a soccer fan, or want to know everything about this game? Follow us on Twitter: www.twitter.com/real__soccer Become a fan of Gameloft on Facebook: www.facebook.com/gameloft",
-  "versionNote": "",
+  "versionNote": "Revisionist History Note - This PDK game has been patched to work on Pre3 and TouchPad.",
   "homeURL": "http://www.gameloft.com",
   "supportURL": "http://www.gameloft.com/support.php",
   "custsupportemail": "support@gameloft.com",
@@ -66,6 +66,6 @@
   "originalFileName": "com.gameloft.app.realsoccer2010_1.1.2_all.ipk",
   "starRating": 2,
   "version": "1.2.7",
-  "filename": "com.gameloft.app.realsoccer2010_1.2.7_all.ipk",
+  "filename": "com.gameloft.app.realsoccer2010_1.2.7_patched_all.ipk",
   "appSize": "109955584"
 }
