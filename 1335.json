@@ -36,32 +36,32 @@
   "touchpad_exclusive": false,
   "images": {
     "1": {
-      "thumbnail": "1335/en/images/1/S/NFL%281%29.jpg",
-      "screenshot": "1335/en/images/1/L/NFL%281%29.jpg",
+      "thumbnail": "1335/NFL81.jpg",
+      "screenshot": "1335/NFL81.jpg",
       "orientation": "P",
       "device": "P"
     },
     "2": {
-      "thumbnail": "1335/en/images/2/S/NFL%282%29.jpg",
-      "screenshot": "1335/en/images/2/L/NFL%282%29.jpg",
+      "thumbnail": "1335/NFL82.jpg",
+      "screenshot": "1335/NFL82.jpg",
       "orientation": "P",
       "device": "P"
     },
     "3": {
-      "thumbnail": "1335/en/images/3/S/NFL%283%29.jpg",
-      "screenshot": "1335/en/images/3/L/NFL%283%29.jpg",
+      "thumbnail": "1335/NFL83.jpg",
+      "screenshot": "1335/NFL83.jpg",
       "orientation": "P",
       "device": "P"
     },
     "4": {
-      "thumbnail": "1335/en/images/4/S/NFL%284%29.jpg",
-      "screenshot": "1335/en/images/4/L/NFL%284%29.jpg",
+      "thumbnail": "1335/NFL84.jpg",
+      "screenshot": "1335/NFL84.jpg",
       "orientation": "P",
       "device": "P"
     },
     "5": {
-      "thumbnail": "1335/en/images/5/S/NFL%285%29.jpg",
-      "screenshot": "1335/en/images/5/L/NFL%285%29.jpg",
+      "thumbnail": "1335/NFL85.jpg",
+      "screenshot": "1335/NFL85.jpg",
       "orientation": "P",
       "device": "P"
     }
