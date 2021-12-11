@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.jonandnic.podcastdirectory",
   "description": "Find thousands of podcasts for your webOS device, powered by PodcastIndex.org, and backed by a web service that strips HTTPS encryption, and shrinks feed sizes. Podcast Directory feeds bring your favorite webOS Podcast app back to life!\r\nPodcast Directory supports Just Type search, custom endpoints so you can host your own server, and configurable limits to keep Podcast apps from getting bogged down parsing giant lists. The open source directory sends no data to Apple or Google, and contains virtually every popular Podcast out there -- with thousands more to discover.\r\n\r\nYou can also use the Podcast Directory in your web browser at http://podcasts.webosarchive.com",
-  "version": "1.1.0",
-  "versionNote": "Version 1.0.0 - Initial public release.\r\nVersion 1.0.1 - Improved search box.\r\n Version 1.1.0 - Add recommendations via Share Service",
+  "version": "1.2.0",
+  "versionNote": "1.0.0 - Initial public release.\r\n1.0.1 - Improved search box.\r\n1.1.0 - Add recommendations via Share Service\r\n1.2.1 - Add Touch2Share support",
   "homeURL": "http://podcasts.webosarchive.com",
   "supportURL": "http://www.webosarchive.com",
   "custsupportemail": "curator@webosarchive.com",
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.jonandnic.podcastdirectory_1.1.0_all.ipk",
+  "filename": "com.jonandnic.podcastdirectory_1.2.0_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
