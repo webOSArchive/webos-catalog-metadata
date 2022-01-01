@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.jonandnic.timecrunch",
   "description": "Quick workouts for busy people. Time Crunch is brand new app for 2021, and a delightful and quick way to help you stay healthy. This beta release includes the famous Scientific 7 Minute Workout, and has been tested on TouchPad, Pre2 and Pre 3 phones.",
-  "version": "1.1.0",
-  "versionNote": "0.5.0 - Beta release\r\n0.6.0 - Beta 2, improved sound and layout, add progress bar\r\n0.7.0 - Beta 3, Improved timing on TouchPad, support for Veer\r\n0.7.1 - Bug fixes, support for Pre and Pixi\r\n1.0.0 - Out of beta! Fix some audio timings and other bugs.\r\n1.1.0 - Change audio class to allow background audio, like music or a podcast, while you work out. Resolved some other audio issues.",
+  "version": "1.5.0",
+  "versionNote": "0.5.0 - Beta release\r\n0.6.0 - Beta 2, improved sound and layout, add progress bar\r\n0.7.0 - Beta 3, Improved timing on TouchPad, support for Veer\r\n0.7.1 - Bug fixes, support for Pre and Pixi\r\n1.0.0 - Out of beta! Fix some audio timings and other bugs.\r\n1.1.0 - Change audio class to allow background audio, like music or a podcast, while you work out. Resolved some other audio issues.\r\n1.5.0 - New exercises and work outs!",
   "homeURL": "http://www.jonandnic.com/webos",
   "supportURL": "https://github.com/codepoet80/webos-timecrunch",
   "custsupportemail": "",
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.jonandnic.timecrunch_1.1.0_all.ipk",
+  "filename": "com.jonandnic.timecrunch_1.5.0_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
