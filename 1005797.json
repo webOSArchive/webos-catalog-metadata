@@ -1,0 +1,48 @@
+{
+  "publicApplicationId": "com.test.testing",
+  "description": "New for 2022, the Webb Telescope Tracker provides regularly updated data from the historic James Webb Telescope as it leaves earth to explore the galaxy!",
+  "version": "1.0.0",
+  "versionNote": "Initial release - my first from-scratch Enyo app",
+  "homeURL": "http://www.webosarchive.com/",
+  "supportURL": "http://www.webosarchive.com/",
+  "custsupportemail": "curator@webosarchive.com",
+  "custsupportphonenum": "",
+  "copyright": "http://www.webosarchive.com/",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 643676 ,
+  "installSize": 1048576 ,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2022-01-13T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": false
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.jonandnic.enyo.webbtracker_1.0.0_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005797/screenshot1.png",
+      "thumbnail": "1005797/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.jonandnic.enyo.webbtracker_1.0.0_all.ipk"
+}
