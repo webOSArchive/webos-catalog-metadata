@@ -1,5 +1,5 @@
 {
-  "publicApplicationId": "com.test.testing",
+  "publicApplicationId": "com.jonandnic.enyo.webbtracker",
   "description": "New for 2022, the Webb Telescope Tracker provides regularly updated data from the historic James Webb Telescope as it leaves earth to explore the galaxy!",
   "version": "1.0.0",
   "versionNote": "Initial release - my first from-scratch Enyo app",
