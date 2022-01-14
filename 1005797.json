@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.jonandnic.enyo.webbtracker",
-  "description": "New for 2022, the Webb Telescope Tracker provides regularly updated data from the historic James Webb Telescope as it leaves earth to explore the galaxy!",
+  "description": "New for 2022, the Webb Telescope Tracker provides regularly updated data from the historic James Webb Telescope as it leaves earth to explore the galaxy!\r\nThanks to https://github.com/avatsaev/webb-tracker-api for providing the free and open API.",
   "version": "1.0.0",
   "versionNote": "Initial release - my first from-scratch Enyo app",
   "homeURL": "http://www.webosarchive.com/",
