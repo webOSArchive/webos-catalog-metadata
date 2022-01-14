@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "versionNote": "Initial release - my first from-scratch Enyo app",
   "homeURL": "http://www.webosarchive.com/",
-  "supportURL": "http://www.webosarchive.com/",
+  "supportURL": "https://github.com/codepoet80/EnyoWebbTracker",
   "custsupportemail": "curator@webosarchive.com",
   "custsupportphonenum": "",
   "copyright": "http://www.webosarchive.com/",
