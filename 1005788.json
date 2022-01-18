@@ -4,7 +4,7 @@
   "version": "1.0.3",
   "versionNote": "1.0.0 - Initial release, includes Touch2Share, JustType integration, background downloads, Facebook friendly share links and much more.\r\n1.0.1 - Adds download button to detail scene, fixes a layout issue.\r\n1.0.2 - Fixes a bug with background downloads\r\n1.0.3 - Improvements to updater",
   "homeURL": "http://www.webosarchive.com/developer/jonwise",
-  "supportURL": "http://www.webosarchive.com/",
+  "supportURL": "http://share.webosarchive.com/",
   "custsupportemail": "curator@webosarchive.com",
   "custsupportphonenum": "",
   "copyright": "Jon Wise and webOS Archive, 2021",
