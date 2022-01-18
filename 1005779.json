@@ -4,7 +4,7 @@
   "version": "1.2.3",
   "versionNote": "Version 1.0.0 - Initial public release. This version doesn't support creating a new account, so you'll have to visit the website to do that part, but everything else works in-app. I'll update soon to resolve this one missing piece of the experience...\r\nVersion 1.1.0 - Adds support for webOS Just Type task creation, enables quick complete or uncomplete by keeping checkmark partly visible, fixes sort bugs,\r\nVersion 1.2.0 - Adds the ability to create a new account from within the app\r\nVersion 1.2.1 - Support the new row feature of the Mojo list widget.\r\nVersion 1.2.2 - Now you can just start typing to create a new task! Also added ability to Copy notes to clipboard\r\nVersion 1.2.3 - Fix a bad keyboard handler bug that could prevent login",
   "homeURL": "http://www.webosarchive.com/developer/jonwise",
-  "supportURL": "http://www.webosarchive.com",
+  "supportURL": "http://checkmate.webosarchive.com",
   "custsupportemail": "curator@webosarchive.com",
   "custsupportphonenum": "",
   "copyright": "2021, jonandnic.com",
