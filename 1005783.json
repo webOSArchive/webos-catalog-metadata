@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "versionNote": "This app and the service that's packed with it are a kludge made by hacking at HP's SDK Sample Code. It has no other function, but as a proof-of-concept, it may be useful for adding other types of Synergy accounts in the future. Visit the restored SDK at sdk.webosarchive.com to learn more.",
   "homeURL": "http://www.webosarchive.com",
-  "supportURL": "http://www.webosarchive.com/proxy",
+  "supportURL": "https://github.com/codepoet80/webos-messagingbypass",
   "custsupportemail": "curator@webosarchive.com",
   "custsupportphonenum": "",
   "copyright": "2021, Jon Wise",
