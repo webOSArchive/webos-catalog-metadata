@@ -13,7 +13,7 @@
   "appSize": 1155734,
   "installSize": 2752512,
   "isEncrypted": false,
-  "adultRating": false,
+  "adultRating": true,
   "islocationbased": false,
   "lastModifiedTime": "2011-04-13T14:50:11-04:00",
   "mediaLink": null,
