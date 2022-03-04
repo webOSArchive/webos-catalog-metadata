@@ -42,6 +42,12 @@
       "thumbnail": "1005799/screenshot1.png",
       "orientation": "L",
       "device": "T"
+    },
+    "2": {
+      "screenshot": "1005799/screenshot2.png",
+      "thumbnail": "1005799/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
     }
   },
   "originalFileName": "com.webosarchive.checkmatehd_1.0.0_all.ipk"
