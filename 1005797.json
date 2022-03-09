@@ -33,13 +33,13 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.jonandnic.enyo.webbtracker_1.0.2_all.ipk",
+  "filename": "http://stacks.webosarchive.com/apps/jameswebb/com.jonandnic.enyo.webbtracker_1.0.2_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
     "1": {
-      "screenshot": "1005797/screenshot1.png",
-      "thumbnail": "1005797/screenshot1.png",
+      "screenshot": "http://stacks.webosarchive.com/apps/jameswebb/screenshot1.png",
+      "thumbnail": "http://stacks.webosarchive.com/apps/jameswebb/screenshot1.png",
       "orientation": "L",
       "device": "T"
     }
