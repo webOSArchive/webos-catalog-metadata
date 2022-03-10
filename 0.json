@@ -31,7 +31,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.com/com.palm.app-museum2_2.9.1_all.ipk",
+  "filename": "com.palm.app-museum2_2.9.0_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
