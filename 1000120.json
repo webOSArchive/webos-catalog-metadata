@@ -2,7 +2,7 @@
   "publicApplicationId": "com.menaka.mrdp",
   "description": "Remote Desktop Client is a Microsoft RDP client which can connect to Microsoft Operating systems that support RDP.  With Remote Desktop Client you can control your remote computers running Microsoft Windows operating system through HP Touchpad. \nCheck the demo video at http://www.youtube.com/watch?v=SUJuK211E-I",
   "version": "1.0.0",
-  "versionNote": "",
+  "versionNote": "Curator's Note: As of 2022 this app still works -- provided you're willing (and able) to make some security policy changes on the Windows host you want to connect to:\r\n- Launch gpedit.msc\r\n- Navigate to Computer Configuration > Administrative Templates > Windows Components > Remote Desktop Services > Remote Desktop Session Host > Security\r\n- Double click: Require use of specific security layer for remote (RDP) connections\r\n- Set the value to Enabled, and the security layer to RDP then click OK to save\r\n- Double click: Require user authentication for remote connections by using Network Level Authentication\r\n- Set the value to Disabled, then click OK to save.\r\n\nAfter installing this app, you should reboot your Touchpad to ensure the service is properly installed. If you get an error on connection, double check to make sure Remote Desktop connections are actually enabled in Windows Settings.",
   "homeURL": "http://www.menakasoftwaresystems.info/",
   "supportURL": "http://www.menakasoftwaresystems.info/",
   "custsupportemail": "menakasoftsystems@gmail.com",
