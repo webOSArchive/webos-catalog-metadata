@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.phantomhat.snowfall",
   "description": "Do you like snow?  Now you can watch snow fall any time of year no matter the weather outside!  With Snowfall, you can watch snow falling on a variety of winter scenes.  Snowfall includes both hand-drawn scenes and photographs, and you can select or deselect them as you wish.  Snow builds up the longer an image stays on the screen.\n\nNOTE 1: To access the settings window, press and hold on the screen for one second.\nNOTE 2: For information on how to use Snowfall in Exhibition, open the app from the launcher and check the top left App Menu.\n\nFeatures:\n\n* 15 unique winter scenes\n* 12- or 24-hour clock with six different positions on the screen (including \"hidden\")\n* 5 wind speeds, from \"None\" to \"Blizzard\"\n* Advance to the next scene every 5, 10, 30, or 60 minutes\n* Enable or disable scenes as you see fit\n* Watch snow collect on the screen the longer a scene is shown",
-  "version": "1.0.0",
-  "versionNote": "",
+  "version": "1.0.1",
+  "versionNote": "Curator's Note: This final version was shared by the original author in June of 2022",
   "homeURL": "http://www.phantomhat.com/",
   "supportURL": "http://www.phantomhat.com/snowfall/",
   "custsupportemail": "support@phantomhat.com",
@@ -33,7 +33,7 @@
   "price": 0.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.phantomhat.snowfall_1.0.0_all.ipk",
+  "filename": "com.phantomhat.snowfall_1.0.1_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

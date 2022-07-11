@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.phantomhat.pixelism",
   "description": "Pixelism is a image drawing and editing app that lets you draw images using multi-colored and multi-shaped \"pixels\".  Create your own masterpieces from a blank canvas or load one of your existing images to add a touch of pixel flair!  Save your images to your device storage to easily share them with others.\n\nFeatures:\n* Create canvases of any size\n* Choose from millions of colors\n* 9 different brush shapes\n* Save your images to USB storage\n* Load images from any other app/source",
-  "version": "2.0.0",
-  "versionNote": "New in version 2.0:\n - The separate stencils and colors have been replaced with Brushes, which can have foreground AND background colors and can be rotated in various directions\n - New brush shapes: Star, Man, and Woman\n - New Cropping dialog for loading only part of an image and/or changing the resulting size of the image",
+  "version": "2.0.1",
+  "versionNote": "Curator's Note: In June of 2022 the original author provided the final release version, 2.0.1 for free, with all features unlocked!\r\nNew in version 2.0:\n - The separate stencils and colors have been replaced with Brushes, which can have foreground AND background colors and can be rotated in various directions\n - New brush shapes: Star, Man, and Woman\n - New Cropping dialog for loading only part of an image and/or changing the resulting size of the image",
   "homeURL": "http://www.phantomhat.com/",
   "supportURL": "http://www.phantomhat.com/pixelism/",
   "custsupportemail": "support@phantomhat.com",
@@ -33,7 +33,7 @@
   "price": 1.49,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.phantomhat.pixelism_2.0.0_all.ipk",
+  "filename": "com.phantomhat.pixelism_2.0.1_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {
