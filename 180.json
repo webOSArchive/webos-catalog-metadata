@@ -36,8 +36,8 @@
   "touchpad_exclusive": false,
   "images": {
     "1": {
-      "thumbnail": "180/en/images/1/S/twit%2Cmotionbox.png",
-      "screenshot": "180/en/images/1/L/twit%2Cmotionbox.png",
+      "thumbnail": "180/en/images/1/S/twitcmotionbox.png",
+      "screenshot": "180/en/images/1/L/twitcmotionbox.png",
       "orientation": "P",
       "device": "P"
     },
