@@ -7,7 +7,7 @@
   "supportURL": "https://github.com/codepoet80/webos-checkmate",
   "custsupportemail": "curator@webosarchive.org",
   "custsupportphonenum": "",
-  "copyright": "2022, codepoet80",
+  "copyright": "2022, Jon W",
   "licenseURL": "MIT",
   "locale": "en_US",
   "appSize": 507596 ,
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.com/apps/com.jonandnic.checkmate_1.2.5_all.ipk",
+  "filename": "http://stacks.webosarchive.org/apps/com.jonandnic.checkmate_1.2.5_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
