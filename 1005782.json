@@ -15,7 +15,7 @@
   "isEncrypted": false,
   "adultRating": false,
   "islocationbased": false,
-  "lastModifiedTime": "2021-03-15T13:04:48-04:00",
+  "lastModifiedTime": "2022-09-18T13:04:48-04:00",
   "mediaLink": null,
   "mediaIcon": null,
   "attributes": {
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.palm.app.jonandnic.urlassist_1.1.0_all.ipk",
+  "filename": "http://stacks.webosarchive.com/apps/com.palm.app.jonandnic.urlassist_1.1.0_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
