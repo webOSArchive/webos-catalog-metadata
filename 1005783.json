@@ -7,7 +7,7 @@
   "supportURL": "https://github.com/codepoet80/webos-messagingbypass",
   "custsupportemail": "curator@webosarchive.org",
   "custsupportphonenum": "",
-  "copyright": "2021, Jon W",
+  "copyright": "2022, Jon W",
   "licenseURL": "MIT",
   "locale": "en_US",
   "appSize": 19302,
@@ -15,7 +15,7 @@
   "isEncrypted": false,
   "adultRating": false,
   "islocationbased": false,
-  "lastModifiedTime": "2021-03-18T13:04:48-04:00",
+  "lastModifiedTime": "2022-09-18T13:04:48-04:00",
   "mediaLink": null,
   "mediaIcon": null,
   "attributes": {
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.messagingbypass.synergy_1.0.0_all.ipk",
+  "filename": "http://stacks.webosarchive.com/apps/com.messagingbypass.synergy_1.0.0_all.ipk",
   "free": true,
   "touchpad_exclusive": true,
   "images": {
