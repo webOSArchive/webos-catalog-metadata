@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "de.zefanjas.biblez",
   "description": "Curator's Note: I have restored the module download feature, and have begun enabling a decent selection of Bible versions. I've also removed the Metrix app tracking functionality since it didn't work anyway. This version works great on phones; for tablets, check out BibleZ HD.\n\nBibleZ is an very easy to use and full-featured bible app for webOS. Features are:\nfulltext search || Bookmarks || own study notes || highlighting verses || share your favorite scriptures (eMail, SMS) || fullscreen mode with bigger font-size || bible passage history || multilingual interface (german/english) || many bible modules in many languages (currently 58)\nIf you have installing, updating or general problems with BibleZ please contact us: info@zefanjas.de",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "versionNote": "Added NIV, all rights belong to their rights holders. Please make sure you own a copy of NIV before using.",
   "homeURL": "http://zefanjas.de",
   "supportURL": "http://zefanjas.de/en/projects/biblez/",
@@ -33,7 +33,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "de.zefanjas.biblez_0.8.3_all.ipk",
+  "filename": "http://stacks.webosarchive.com/apps/de.zefanjas.biblez_0.8.4_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
