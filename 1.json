@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "com.palm.app-museum2",
   "description": "Does the app list look a little empty? That's because you're on a really old version of the App Museum and we need you to upgrade (maybe a couple times!)\n\nNever fear, the restored catalog awaits, with thousands of apps for you to check out. Just install this update and re-launch, and all the great stuff will re-appear.\n\nIf you need help, reach out to the curator at the email below.",
-  "version": "2.9.2",
+  "version": "2.9.3",
   "versionNote": "There's a new version of App Museum II. You need to update to see the rest of the catalog!",
   "homeURL": "http://www.webosarchive.org",
   "supportURL": "http://appcatalog.webosarchive.org",
@@ -31,7 +31,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.palm.app-museum2_2.9.2_all.ipk",
+  "filename": "com.palm.app-museum2_2.9.3_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
