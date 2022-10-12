@@ -31,7 +31,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.com/apps/de.content754.clocksync_1.4.0_all.ipk",
+  "filename": "http://stacks.webosarchive.org/apps/de.content754.clocksync_1.4.0_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
