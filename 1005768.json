@@ -40,7 +40,7 @@
     "1": {
       "screenshot": "1005768/proxysetter01.png",
       "thumbnail": "1005768/proxysetter01.png",
-      "orientation": "L",
+      "orientation": "P",
       "device": "T"
     },"2": { "screenshot": "1005768/proxysetter02.png", "thumbnail": "1005768/proxysetter02.png", "orientation": "L", "device": "T" }
   },
