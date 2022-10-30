@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.org/apps/com.jonandnic.checkmate_1.2.5_all.ipk",
+  "filename": "com.jonandnic.checkmate_1.2.5_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
