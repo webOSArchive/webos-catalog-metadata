@@ -33,7 +33,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "scummvm/org.scummvm.scummvm_2.1.0200_all.ipk",
+  "filename": "org.scummvm.scummvm_2.1.0200_all.ipk",
   "free": true,
   "touchpad_exclusive": true,
   "images": {
