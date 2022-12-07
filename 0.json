@@ -1,7 +1,7 @@
 {
   "publicApplicationId": "com.palm.app-museum2",
   "description": "Does the app list look a little empty? That's because we have an important update to the App Museum we need you to download!\n\nNever fear, the restored catalog awaits, with thousands of apps for you to check out. Just install this update and re-launch, and all the great stuff will re-appear.\n\nIf you need help, reach out to the curator at the email below.",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "versionNote": "There's a new version of App Museum II. You need to update to see the rest of the catalog!\n\n2.8.0 - Add support for self-updating, improvements to app metadata.\r\n2.8.1 - Add Share button with email and clipboard options, and links to author page.\r\n2.8.2 - Fix vendor details bug, prepare for upcoming back-end changes.\r\n2.9.0 - Support for absolute download paths, and web and LuneOS clients.\r\n2.9.1 - Support for absolute image paths, package mirrors and newer apps.\r\n2.9.2 - Support for case-sensitive mirrors.\r\n2.9.3 - Important changes to support new domain name.\r\n2.9.4 - Add new permissions for LuneOS",
   "homeURL": "http://www.webosarchive.org",
   "supportURL": "http://appcatalog.webosarchive.org",
