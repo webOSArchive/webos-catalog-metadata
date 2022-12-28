@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.accuweather.palm.purchased",
-  "description": "Revisionist History Note - As of December 2022 the service this app uses had become unreliable, so it was replaced with a service hosted by webOS Archive. The app has been modified to use this new service, with or without an SSL Proxy turned on. As a result, most functionality has been restored.\r\n",
+  "description": "Revisionist History Note - As of December 2022 the service this app uses had become unreliable, so it was replaced with a service hosted by webOS Archive. The app has been modified to use this new service, with or without an SSL Proxy turned on. As a result, most functionality has been restored.\r\nStay up to date on weather conditions wherever you travel with AccuWeather Premium. Get the latest conditions and AccuWeather.com forecasts. Pan, zoom and animate radar or satellite imagery. Be alerted to severe weather warnings issued for your location (U.S. only). Or see how the weather will affect your health and daily activities with the lifestyle forecasts. With global coverage, it’s a weather center at your fingertips!",
   "version": "1.0.6",
-  "versionNote": "Stay up to date on weather conditions wherever you travel with AccuWeather Premium. Get the latest conditions and AccuWeather.com forecasts. Pan, zoom and animate radar or satellite imagery. Be alerted to severe weather warnings issued for your location (U.S. only). Or see how the weather will affect your health and daily activities with the lifestyle forecasts. With global coverage, it’s a weather center at your fingertips!",
+  "versionNote": "Version 1.0.6 - Migrate to new service back-end",
   "homeURL": "http://www.accuweather.com",
   "supportURL": "https://forums.webosnation.com/hp-touchpad/332728-accuweather-com-stopped-working-exhibition-mode-2.html#post3457498",
   "custsupportemail": "support@accuweather.com",
