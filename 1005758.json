@@ -31,7 +31,7 @@
   "price": 1.89,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.org/apps/com.accuweather.palm.purchased_1.0.6_all.ipk",
+  "filename": "com.accuweather.palm.purchased_1.0.6_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
