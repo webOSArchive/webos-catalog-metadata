@@ -35,8 +35,7 @@
   "price": 9.95,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
-  "originalFilename": "com.outlinetracker.outlinetracker_2.5.6_all.ipk",
+  "filename": "http://appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

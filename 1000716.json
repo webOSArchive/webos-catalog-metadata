@@ -33,8 +33,7 @@
   "price": 1.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
-  "originalFilename": "com.hominidsoftware.zapphotoshare_2.3.2.ipk",
+  "filename": "http://appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

@@ -33,8 +33,7 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
-  "originalFilename": "com.hominidsoftware.exhibitioncalc_1.0.2_all.ipk",
+  "filename": "http://appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
   "free": false,
   "touchpad_exclusive": true,
   "images": {
