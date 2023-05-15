@@ -1,10 +1,10 @@
 {
   "publicApplicationId": "com.outlinetracker.outlinetrackerfree",
-  "description": "The many details so often forgotten can all be at your fingertips! Light-years past a to-do list, Outline Tracker™ helps you organize all of your tasks and associated notes. Organize projects at work, plan a move, a wedding, or a grocery list. \n\n* Organize tasks and sub-tasks as many layers deep as you need.  \n* Outline Tracker’s dynamic to-do list shows only the tasks you can work on here and now.\n* View upcoming tasks in the “By Due Date” scene.\n* The dynamic waiting list shows tasks that are waiting for action by someone else - tap to contact him/her \n* Tasks and sub-projects can repeat on an exact schedule (such as the second-last day of every month) or a lax schedule (such as “a week after I last did it”).  \n* Color-coding shows at a glance who’s responsible for a task -- you, your organization, or no one (better get someone on that!)   \n* Items with a due date appear in the webOS Calendar \n* Global search makes it easy to find items\n* Supports David Allen’s Getting Things Done® (GTD) methodology.\n* Coordinate with others using Basecamp Classic from 37signals. Others can connect using any web browser, or custom apps available for many kinds of smartphone. (Outline Tracker does not support “new” Basecamp.)\n* Edit Basecamp Classic items without a network connection. Changes will be uploaded when you're next on-line.\n\nOutline Tracker also functions as an outliner, importing from OPML and XOXO formats, & exporting  to XOXO format.\n\nOutline Tracker Free is limited to 50 items, but otherwise has all the features of Outline Tracker.",
+  "description": "Curator's Note: The author still maintains download and support links for this app. Visit his website to download direct!\r\n\nThe many details so often forgotten can all be at your fingertips! Light-years past a to-do list, Outline Tracker™ helps you organize all of your tasks and associated notes. Organize projects at work, plan a move, a wedding, or a grocery list. \n\n* Organize tasks and sub-tasks as many layers deep as you need.  \n* Outline Tracker’s dynamic to-do list shows only the tasks you can work on here and now.\n* View upcoming tasks in the “By Due Date” scene.\n* The dynamic waiting list shows tasks that are waiting for action by someone else - tap to contact him/her \n* Tasks and sub-projects can repeat on an exact schedule (such as the second-last day of every month) or a lax schedule (such as “a week after I last did it”).  \n* Color-coding shows at a glance who’s responsible for a task -- you, your organization, or no one (better get someone on that!)   \n* Items with a due date appear in the webOS Calendar \n* Global search makes it easy to find items\n* Supports David Allen’s Getting Things Done® (GTD) methodology.\n* Coordinate with others using Basecamp Classic from 37signals. Others can connect using any web browser, or custom apps available for many kinds of smartphone. (Outline Tracker does not support “new” Basecamp.)\n* Edit Basecamp Classic items without a network connection. Changes will be uploaded when you're next on-line.\n\nOutline Tracker also functions as an outliner, importing from OPML and XOXO formats, & exporting  to XOXO format.\n\nOutline Tracker Free is limited to 50 items, but otherwise has all the features of Outline Tracker.",
   "version": "2.5.6",
   "versionNote": "New in version 2.5.4:\n* Just Type search doesn't clear Place\n* “Basecamp” renamed “Basecamp Classic”\n\nNew in version 2.5.0\n* You can can set some or all overdue Tasks to display on today in the webOS Calendar, by setting OVERDUE TASKS in the Project Settings.",
   "homeURL": "http://hominidsoftware.com/",
-  "supportURL": "http://outlinetracker.com/outlinetracker/support.html",
+  "supportURL": "https://hominidsoftware.com/outlinetracker/support.html",
   "custsupportemail": "supportfree@hominidsoftware.com",
   "custsupportphonenum": "",
   "copyright": "Copyright &Acirc;&copy; 2009-2012 Hominid Software",
@@ -35,7 +35,8 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.outlinetracker.outlinetrackerfree_2.5.6_all.ipk",
+  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
+  "originalFilename": "com.outlinetracker.outlinetrackerfree_2.5.6_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

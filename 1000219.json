@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.hominidsoftware.exhibitioncalc",
-  "description": "A calculator that's ready at hand when your device is asleep on a Touchstone! (Exhibition Mode)  Results are saved for later use & can be copied to the clipboard.\n\nAlso works as a normal app, if you prefer this to the built-in calculator.",
+  "description": "Curator's Note: The author still maintains download and support links for this app. Visit his website to download direct!\r\n\nA calculator that's ready at hand when your device is asleep on a Touchstone! (Exhibition Mode)  Results are saved for later use & can be copied to the clipboard.\n\nAlso works as a normal app, if you prefer this to the built-in calculator.",
   "version": "1.0.2",
   "versionNote": "Updated FAQ",
   "homeURL": "http://hominidsoftware.com/",
@@ -33,7 +33,8 @@
   "price": 0,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.hominidsoftware.exhibitioncalc_1.0.2_all.ipk",
+  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
+  "originalFilename": "com.hominidsoftware.exhibitioncalc_1.0.2_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

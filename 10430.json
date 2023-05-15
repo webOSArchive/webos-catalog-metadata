@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.hominidsoftware.popupcalc",
-  "description": "Take full advantage of multi-tasking under webOS!\n\nPopupCalc is a calculator that runs in a window on top of other applications.  Both PopupCalc and the other app are fully functional, so you can do calculations while writing a memo or shopping on-line.\n\nResults are saved for later use and can be copied to the clipboard.\n\nPopupCalc “lives” in a dashboard notification, so the calculator is just a swipe and tap away at any time, once launched.",
+  "description": "Curator's Note: The author still maintains download and support links for this app. Visit his website to download direct!\r\n\nTake full advantage of multi-tasking under webOS!\n\nPopupCalc is a calculator that runs in a window on top of other applications.  Both PopupCalc and the other app are fully functional, so you can do calculations while writing a memo or shopping on-line.\n\nResults are saved for later use and can be copied to the clipboard.\n\nPopupCalc “lives” in a dashboard notification, so the calculator is just a swipe and tap away at any time, once launched.",
   "version": "1.1.6",
   "versionNote": "Added keyclick.",
   "homeURL": "http://hominidsoftware.com/",
@@ -33,7 +33,8 @@
   "price": 0.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.hominidsoftware.popupcalc_1.1.6_all.ipk",
+  "filename": "appcatalog.webosarchive.org/AuthorMetadata/8609/AppLocationNotice.pdf",
+  "originalFilename": "com.hominidsoftware.popupcalc_1.1.6_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {
