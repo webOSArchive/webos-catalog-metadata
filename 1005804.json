@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "nl.banneret.networkscanner",
-  "description": "Banneret's Network Scanner is the best (and probably only) WiFi scanner for webOS!\r\nImportant note, this app requires JayCanuck's JS Service Framework as a pre-requisite -- App Museum cannot automatically fetch this for you, download it from the Support URL or find it at http://www.webosarchive.org/activation/",
+  "description": "Banneret's Network Scanner is the best (and probably only) WiFi scanner for webOS!\r\n\nImportant note: this app requires JayCanuck's JS Service Framework as a pre-requisite -- App Museum cannot automatically fetch this for you, download it from the Support URL or find it at http://www.webosarchive.org/activation/",
   "version": "0.5.0",
   "versionNote": "Published at Banneret's request in 2023",
   "homeURL": "http://www.banneret.nl/",
