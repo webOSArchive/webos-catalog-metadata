@@ -30,18 +30,6 @@
       "device": "P"
     },
     {
-      "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/1/S/tb_01_Time.05.02.11.jpg",
-      "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/1/S/tb_01_Time.05.02.11.jpg",
-      "orientation": "P",
-      "device": "P"
-    },
-    {
-      "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/2/S/tb_02_Time.07.04.11.Contents.jpg",
-      "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/2/S/tb_02_Time.07.04.11.Contents.jpg",
-      "orientation": "P",
-      "device": "P"
-    },
-    {
       "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/2/S/tb_02_Time.07.04.11.Contents.jpg",
       "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/2/S/tb_02_Time.07.04.11.Contents.jpg",
       "orientation": "P",
@@ -54,26 +42,8 @@
       "device": "P"
     },
     {
-      "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/3/S/tb_03_Time.07.04.11.BriefingQuotes.jpg",
-      "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/3/S/tb_03_Time.07.04.11.BriefingQuotes.jpg",
-      "orientation": "P",
-      "device": "P"
-    },
-    {
       "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/4/S/tb_04_Time.07.04.11.BriefingWorld.jpg",
       "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/4/S/tb_04_Time.07.04.11.BriefingWorld.jpg",
-      "orientation": "P",
-      "device": "P"
-    },
-    {
-      "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/4/S/tb_04_Time.07.04.11.BriefingWorld.jpg",
-      "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/4/S/tb_04_Time.07.04.11.BriefingWorld.jpg",
-      "orientation": "P",
-      "device": "P"
-    },
-    {
-      "thumbnail": "com.timeinc.digimag.webos.time/1.0.34/en/images/5/S/tb_05_Time.07.04.11.BriefingNation.jpg",
-      "screenshot": "com.timeinc.digimag.webos.time/1.0.34/en/images/5/S/tb_05_Time.07.04.11.BriefingNation.jpg",
       "orientation": "P",
       "device": "P"
     },
