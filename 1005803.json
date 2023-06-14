@@ -1,9 +1,9 @@
 {
   "publicApplicationId": "com.palm.webosarchive.wrp-browser",
-  "description": "Web Rendering Proxy (WRP) is an app you run on a PC (Windows or Linux) or Mac that has Chrome installed. WRP works with older devices by providing a web server that hosts an image of a web page, this allows older devices (like webOS) to view pages their own browser can't handle. This WRP Browser improves the experience on webOS by adding bookmarks, sharing, and improving the UI.\r\n\nNote: You'll need your own WRP on a PC on your network to use it.",
+  "description": "Web Rendering Proxy (WRP) is an app you run on a PC (Windows or Linux) or Mac that has Chrome installed. WRP works with older devices by providing a web server that hosts an image of a web page, this allows older devices (like webOS) to view pages their own browser can't handle. This WRP Browser improves the experience on webOS by adding bookmarks, sharing, and improving the UI.\r\n\nNote: You'll need your own WRP on a PC on your network to use it.\r\nCheck the support link below to download an HTML template that you can add to your PC in order to make the UI look more like webOS!",
   "version": "1.0.0",
   "versionNote": "Initial Release, more to come!",
-  "homeURL": "https://github.com/webOSArchive/wrp-browser",
+  "homeURL": "https://docs.webosarchive.org/browsers/#wrp",
   "supportURL": "https://docs.webosarchive.org/browsers/#wrp",
   "custsupportemail": "curator@webosarchive.org",
   "custsupportphonenum": "",
