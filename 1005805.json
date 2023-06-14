@@ -1,0 +1,54 @@
+{
+  "publicApplicationId": "com.wordpress.touchcontrol.touchvol",
+  "description": "A graphical eq for the Touchpad (and Pre3)",
+  "version": "0.1.5",
+  "versionNote": "Curator's Note: Rescued from the webOS Nation shutdown.",
+  "supportURL": "http://touchcontrol.wordpress.com",
+  "homeURL": "http://touchcontrol.wordpress.com",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "2011, Paul Stone",
+  "licenseURL": "None",
+  "locale": "en_US",
+  "appSize": 452358,
+  "installSize": 452358,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2012-03-24T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": true,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": true
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.wordpress.touchcontrol.touchvol_0.1.5_all.ipk",
+  "free": true,
+  "touchpad_exclusive": true,
+  "images": {
+    "1": {
+      "screenshot": "1005805/screenshot1.png",
+      "thumbnail": "1005805/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005805/screenshot2.png",
+      "thumbnail": "1005805/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.wordpress.touchcontrol.touchvol_0.1.5_all.ipk"
+}
