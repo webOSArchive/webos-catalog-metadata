@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.palm.webos.sharespace",
   "description": "Share Space is a brand new app for 2021 that creates a bridge between your webOS devices and the modern world.\r\nIt supports every feature you could want from webOS, and makes it easy to get content from your modern computer or phone onto your Pre, Veer, Pixi Plus or Touchpad. Some things you can do:\n\n- Update your digital photo frame from anywhere: send pictures to your Touchpad's Exhibition mode from any device with a web browser at https://share.webosarchive.org. When you turn on background downloads, Share Space will fetch new photos automatically and restart Exhibition to display them.\n\n- Share pictures or text between devices: open shared content on one device, then Touch2Share with another device to instantly share in a browser or in-app.\n\n- Quickly share pictures to Facebook or SMS, even if your network doesn't support MMS. When you add an image to your Share Space, you're given a tiny link that works great for sharing with modern devices -- its automatically added to your clipboard, but you can get the link at any time through the detail scene of the app.\n\n - Add social features to any app. Share Space is backed by an open source sharing service with an easy-to-use API that any app can use. See MeTube's recommendations as an example. You can use the community server, or host your own!",
-  "version": "1.0.4",
-  "versionNote": "1.0.0 - Initial release, includes Touch2Share, JustType integration, background downloads, Facebook friendly share links and much more.\r\n1.0.1 - Adds download button to detail scene, fixes a layout issue.\r\n1.0.2 - Fixes a bug with background downloads\r\n1.0.3 - Improvements to updater\r\n1.0.4 - Adds dark theme, support for new domain.",
+  "version": "1.0.5",
+  "versionNote": "1.0.0 - Initial release, includes Touch2Share, JustType integration, background downloads, Facebook friendly share links and much more.\r\n1.0.1 - Adds download button to detail scene, fixes a layout issue.\r\n1.0.2 - Fixes a bug with background downloads\r\n1.0.3 - Improvements to updater\r\n1.0.4 - Adds dark theme, support for new domain.\r\n1.0.5 - Move to new subdomain. This update is required.",
   "homeURL": "http://share.webosarchive.org/",
   "supportURL": "https://github.com/webosarchive/webos-sharespace",
   "custsupportemail": "curator@webosarchive.org",
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.palm.webos.sharespace_1.0.4_all.ipk",
+  "filename": "http://stacks.webosarchive.org/apps/com.palm.webos.sharespace_1.0.5_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
