@@ -33,7 +33,7 @@
   "price": 1.29,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.mycompany.usdocuments_2.0.2_all.ipk",
+  "filename": "https://stacks.webosarchive.org/apps/com.mycompany.usdocuments_2.0.2_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

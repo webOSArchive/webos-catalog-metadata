@@ -33,7 +33,7 @@
   "price": 0.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.ximad.constellation_1.0.2_all.ipk",
+  "filename": "https://stacks.webosarchive.org/apps/com.ximad.constellation_1.0.2_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

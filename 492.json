@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.anusen.wordmagic",
-  "description": "Word Magic  is an excellent application for kids to have fun with word and pictures and at the same time learn spellings. \n\n\nWord Magic is loaded with lot of fun features:\n- Very simple design. Kids need to just touch the answer.\n- Every time they pick the answers they get appreciated with surprise appreciation (real voice)\n- Once they identify the correct answer, shaking the phone will take them to a new problem.\n- After every 5 successive correct answers different colored stars appear as their rewards. Kids love this.\n- Easy customization is provided. Based on your kids level of expertise parents can choose words of different sizes (3 or 4 or 5 or 6 lettered words)\n\nWord Magic is fun learning experience for kids which would help them in\n- Positive reinforcement\n- Surprises and rewards\n- Very simple design\n- Vibrant colors\n\nHave fun, and please send your comments and feedback and enhancements requests to wordmagic@anusen.com",
+  "description": "Word Magic is an excellent application for kids to have fun with word and pictures and at the same time learn spellings. \n\n\nWord Magic is loaded with lot of fun features:\n- Very simple design. Kids need to just touch the answer.\n- Every time they pick the answers they get appreciated with surprise appreciation (real voice)\n- Once they identify the correct answer, shaking the phone will take them to a new problem.\n- After every 5 successive correct answers different colored stars appear as their rewards. Kids love this.\n- Easy customization is provided. Based on your kids level of expertise parents can choose words of different sizes (3 or 4 or 5 or 6 lettered words)\n\nWord Magic is fun learning experience for kids which would help them in\n- Positive reinforcement\n- Surprises and rewards\n- Very simple design\n- Vibrant colors\n\nHave fun, and please send your comments and feedback and enhancements requests to wordmagic@anusen.com",
   "version": "1.0.4",
   "versionNote": "",
   "homeURL": "http://www.anusen.com",
@@ -33,7 +33,7 @@
   "price": 1.45,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.anusen.wordmagic_1.0.4_all.ipk",
+  "filename": "https://stacks.webosarchive.org/apps/com.anusen.wordmagic_1.0.4_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
