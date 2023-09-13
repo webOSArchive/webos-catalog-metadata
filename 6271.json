@@ -33,7 +33,7 @@
   "price": 1.49,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.org/apps/com.ttpsoft.dailydevopro_1.0.1_all.ipk",
+  "filename": "com.ttpsoft.dailydevopro_1.0.1_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
