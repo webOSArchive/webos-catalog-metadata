@@ -33,7 +33,7 @@
   "price": 1.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/com.thomasschoeps.app.puzzlepaint_1.0.3_all.ipk",
+  "filename": "com.thomasschoeps.app.puzzlepaint_1.0.3_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

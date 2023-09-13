@@ -33,7 +33,7 @@
   "price": 0.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/com.caihongli.game.chess_1.0.0_all.ipk",
+  "filename": "com.caihongli.game.chess_1.0.0_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

@@ -33,7 +33,7 @@
   "price": 1.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/com.rustyapps.needforfeeds_1.0.6_all.ipk",
+  "filename": "com.rustyapps.needforfeeds_1.0.6_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

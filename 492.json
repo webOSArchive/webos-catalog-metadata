@@ -33,7 +33,7 @@
   "price": 1.45,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/com.anusen.wordmagic_1.0.4_all.ipk",
+  "filename": "com.anusen.wordmagic_1.0.4_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {

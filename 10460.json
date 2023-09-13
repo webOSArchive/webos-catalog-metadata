@@ -33,7 +33,7 @@
   "price": 2.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/de.meteogroup.weatherpro_1.0.1_all.ipk",
+  "filename": "de.meteogroup.weatherpro_1.0.1_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {

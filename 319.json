@@ -33,7 +33,7 @@
   "price": 0.99,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "https://stacks.webosarchive.org/apps/com.hamptoncatlin.colorpuzzle_0.9.1_all.ipk",
+  "filename": "com.hamptoncatlin.colorpuzzle_0.9.1_all.ipk",
   "free": false,
   "touchpad_exclusive": false,
   "images": {
