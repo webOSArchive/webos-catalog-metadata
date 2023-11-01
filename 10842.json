@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.tehtorq.reddit",
-  "description": "Curator's Note - Of all the Reddit clients that still exist for webOS, this one is the best. You can't sign-in, so you can't vote or comment, but images, comments, and links all load -- unless they go to YouTube! Combine with a SSL proxy for the full 'voice of the internet!'",
-  "version": "0.2.7",
-  "versionNote": "reddit: the voice of the internet -- news before it happens\n\nMost recent changes:\n\n- Browse galleries with slideshow support\n- Save gallery pictures as your wallpaper\n- Dashboard notifications for new messages and karma changes\n- Easily see both articles and comments on the Touchpad frontpage\n- Launch and Search through Just Type\n\nJoin one of the largest online communities, or you know, just lurk anonymously, and browse user submissions and comments that range from the mundane to the hilarious, and cover just about every topic out there. Whether you're into news, humor, photography or something more obscure, you'll probably find it (first) on reddit.\n\nIAmA reddit allows you to register a user, login, browse topics by category, search, upvote and downvote user comments, reply to comments and more.\n\nMore features are planned!","originalCategory":"News",
+  "description": "Curator's Note - Of all the Reddit clients that still exist for webOS, this one is the best. You can't sign-in, so you can't vote or comment, but images, comments, and links all load -- you can even view YouTube videos if you install MeTube and URL Assist from the museum! You'll need a SSL proxy for the full 'voice of the internet!'",
+  "version": "0.2.8",
+  "versionNote": "reddit: the voice of the internet -- news before it happens\n\nMost recent changes:\n\n- Browse galleries with slideshow support\n- Save gallery pictures as your wallpaper\n- Dashboard notifications for new messages and karma changes\n- Easily see both articles and comments on the Touchpad frontpage\n- Launch and Search through Just Type\n\nJoin one of the largest online communities, or you know, just lurk anonymously, and browse user submissions and comments that range from the mundane to the hilarious, and cover just about every topic out there. Whether you're into news, humor, photography or something more obscure, you'll probably find it (first) on reddit.\n\nIAmA reddit allows you to register a user, login, browse topics by category, search, upvote and downvote user comments, reply to comments and more.\n\nMore features are planned!\n\nRevisionist History Note: Updated in 2023 to support opening articles in the Browser using old.reddit.com","originalCategory":"News",
   "homeURL": "http://www.subpixel-labs.com/",
   "supportURL": "http://www.subpixel-labs.com/",
   "custsupportemail": "",
@@ -33,7 +33,7 @@
   "price": 1.5,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "com.tehtorq.reddit_0.2.7_all.ipk",
+  "filename": "http://stacks.webosarchive.org/apps/com.tehtorq.reddit_0.2.8_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {
