@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "org.webosarchive.webwindow",
-  "description": "Keep an eye on something, with an always on window to the Web. Set the webpage to view, optionally set the refresh timer, then leave it open as a stand-alone app, or enable it in Exhibition!",
+  "description": "Keep an eye on something with an always-on window to the Web. Set the webpage to view, optionally set the refresh timer, then leave it open as a stand-alone app, or enable it in Exhibition!",
   "version": "1.0.0",
   "versionNote": "Initial Public Release",
   "supportURL": "http://www.webosarchive.org",
