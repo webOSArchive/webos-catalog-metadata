@@ -22,7 +22,7 @@
     "provides": {
       "noApp": false,
       "dockMode": true,
-      "universalSearch": true,
+      "universalSearch": false,
       "connectors": [
         "null"
       ],

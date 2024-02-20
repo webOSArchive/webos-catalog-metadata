@@ -1,0 +1,60 @@
+{
+  "publicApplicationId": "com.wosa.imessage",
+  "description": "Sync iMessages from your Mac to your Touchpad, with this Synergy Connector, and the free Message Bridge software from dremin.\n\nOne of a very few Synergy Connectors, and certainly the only one built in the last decade, this bundle includes a background service and configuration front-end to make it easy to seamlessly sync messages onto your webOS device. Initially its a one-way sync -- no outbound messages yet. Also initially, it only supports the Touchpad, due to the old version of NodeJS on webOS 2.x. I plan to continue development for as long as its useful to me, so more to come hopefully.\n\nTo use this, you'll need a Mac, signed into your Apple Account for messages, and the Message Bridge connector available from GitHub: https://github.com/dremin/message-bridge",
+  "version": "1.0.0",
+  "versionNote": "1.0.0 - Initial public release. Supports Touchpads and one-way sync only.",
+  "supportURL": "https://github.com/dremin/message-bridge",
+  "homeURL": "https://www.webosarchive.org",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "2024, webOS Archive",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 858110,
+  "installSize": 858110,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2024-02-20T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": true,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": true
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "http://stacks.webosarchive.org/apps/com.wosa.imessage_1.0.0_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005808/screenshot1.png",
+      "thumbnail": "1005808/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005808/screenshot2.png",
+      "thumbnail": "1005808/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "3": {
+      "screenshot": "1005808/screenshot3.png",
+      "thumbnail": "1005808/screenshot3.png",
+      "orientation": "L",
+      "device": "T"
+    },
+  },
+  "originalFileName": "com.wosa.imessage_1.0.0_all.ipk"
+}

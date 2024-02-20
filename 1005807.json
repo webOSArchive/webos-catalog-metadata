@@ -21,8 +21,8 @@
   "attributes": {
     "provides": {
       "noApp": false,
-      "dockMode": true,
-      "universalSearch": true,
+      "dockMode": false,
+      "universalSearch": false,
       "connectors": [
         "null"
       ],
