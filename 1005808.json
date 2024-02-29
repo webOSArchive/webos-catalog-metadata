@@ -1,8 +1,8 @@
 {
   "publicApplicationId": "com.wosa.imessage",
   "description": "Sync iMessages from your Mac to your Touchpad with this Synergy Connector, and the free Message Bridge software from dremin.\n\nOne of a very few Synergy Connectors, and certainly the only one built in the last decade, this bundle includes a background service and configuration front-end to make it easy to seamlessly sync messages onto your webOS device. Initially its a one-way sync -- no outbound messages yet. Also initially, it only supports the Touchpad, due to the old version of NodeJS on webOS 2.x. I plan to continue development for as long as its useful to me, so more to come hopefully.\n\nTo use this, you'll need a Mac, signed into your Apple Account for messages, and the Message Bridge connector available from GitHub: https://github.com/dremin/message-bridge",
-  "version": "1.0.0",
-  "versionNote": "1.0.0 - Initial public release. Supports Touchpads and one-way sync only.",
+  "version": "1.0.1",
+  "versionNote": "1.0.0 - Initial public release. Supports Touchpads and one-way sync only.\r\n1.0.1 - Add partial support for Pre3 and other devices running 2.2.4, fixes some bugs.",
   "supportURL": "https://github.com/dremin/message-bridge",
   "homeURL": "https://www.webosarchive.org",
   "custsupportemail": "",
@@ -33,7 +33,7 @@
   "price": 0.00,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.org/apps/com.wosa.imessage_1.0.0_all.ipk",
+  "filename": "http://stacks.webosarchive.org/apps/com.wosa.imessage_1.0.1_all.ipk",
   "free": true,
   "touchpad_exclusive": false,
   "images": {
