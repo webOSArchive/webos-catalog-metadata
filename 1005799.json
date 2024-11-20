@@ -5,7 +5,7 @@
   "versionNote": "Version 1.0.0 - Initial Cross-Platform Release\r\nVersion 1.0.1 - A few bug fixes and required update for new domain.\r\nVersion 1.1.0 - Background sync, update check, and other bug fixes.\r\nVersion 1.1.1 - Move to new app domain. This update is required.",
   "homeURL": "http://checkmate.wosa.link/",
   "supportURL": "http://checkmate.wosa.link/",
-  "custsupportemail": "curator@webosarchive.org",
+  "custsupportemail": "webosarchive@gmail.com",
   "custsupportphonenum": "",
   "copyright": "2022, webosarchive.org",
   "licenseURL": "MIT",

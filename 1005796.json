@@ -5,7 +5,7 @@
   "versionNote": "Known issues: navigating around Australia doesn't work, its not possible to navigate across bodies of water -- navigate around, or use the jump feature instead.\r\n1.1.0 - This security update is required in order to load maps. Also adds dark theme, supports move to webosarchive.org domain. If you keep seeing this message, please uninstall the old version manually -- the application ID has changed.",
   "homeURL": "http://maps.webosarchive.org/",
   "supportURL": "https://github.com/webosarchive/webos-maplite",
-  "custsupportemail": "curator@webosarchive.org",
+  "custsupportemail": "webosarchive@gmail.com",
   "custsupportphonenum": "",
   "copyright": "2022, webosarchive.org",
   "licenseURL": "MIT",

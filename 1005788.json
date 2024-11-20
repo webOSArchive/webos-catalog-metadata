@@ -5,7 +5,7 @@
   "versionNote": "1.0.0 - Initial release, includes Touch2Share, JustType integration, background downloads, Facebook friendly share links and much more.\r\n1.0.1 - Adds download button to detail scene, fixes a layout issue.\r\n1.0.2 - Fixes a bug with background downloads\r\n1.0.3 - Improvements to updater\r\n1.0.4 - Adds dark theme, support for new domain.\r\n1.0.5 - Move to new subdomain. This update is required.",
   "homeURL": "http://share.webosarchive.org/",
   "supportURL": "https://github.com/webosarchive/webos-sharespace",
-  "custsupportemail": "curator@webosarchive.org",
+  "custsupportemail": "webosarchive@gmail.com",
   "custsupportphonenum": "",
   "copyright": "2022, webosarchive.org",
   "licenseURL": "MIT",

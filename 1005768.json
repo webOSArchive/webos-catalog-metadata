@@ -5,7 +5,7 @@
   "versionNote": "webOS Archive Proxy allows webOS 2.2.4 and up users to route Internet traffic through a SSL-Bump Proxy, stripping modern encryption so that webOS can access Internet applications and content. Supports proxies that require basic authentication\r\nVersion 1.1.4 adds support for Pre3.\r\nVersion 1.1.5 - Fix bugs for certificate download and proxy removal, layout fixes on Pre3\r\nVersion 1.1.6 - Fix username bug\r\nVersion 1.1.7 - Important changes for new domain, please disable and re-enable the proxy after installing this update.\r\nVersion 2.0.0 - Re-written for simplicity and improved error handling!\r\nVersion 2.0.1 - Addresses an issue where the proxy was not properly set if it doesn't require credentials.",
   "homeURL": "http://www.webosarchive.org/",
   "supportURL": "http://www.webosarchive.org/proxy",
-  "custsupportemail": "curator@webosarchive.org",
+  "custsupportemail": "webosarchive@gmail.com",
   "custsupportphonenum": "",
   "copyright": "2022, webOS Archive",
   "licenseURL": "MIT License",

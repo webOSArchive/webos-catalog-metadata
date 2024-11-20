@@ -5,7 +5,7 @@
   "versionNote": "You have a WebDAV account like \"Cloudsafe\" or you use \"DropDav\"? Did you ever want to access those with your favorite mobile OS? With \"WebDAV Navigator\" it is possible now! Access your WebDAV service from everywhere with your Touchpad.\n\nFeatures: \n\n- Complete navigation on your WebDAV server \n- Download files \n- Open files\n- Delete directories (recursive) or files\n\nComing soon:\n\n- Create new directories \n- Upload files \n\nPlease doesn't hesitate and send me feature requests therefore I can make this app better.\n\nProved Services:\n\n- GMX MediaCenter\n- Alice/O2 Smartdisk\n- dropDav\n- Apache WebDAV Module\n- T-Mobile Cloud\n- OwnCloud\n- SabreDAV\n\nCurrently unsupported:\n- Yandex \n\nChange History:\n\nVersion 0.1.10\n- resolve problems with hierarchical webdav server logins\n\nVersion 0.1.11\n- Support for owncloud\n- Support for SabreDAV\n- change the configuration of a server\n\nVersion 0.1.13\n- Bugfix with the using of different server ports\n\nVersion 0.2.0\n- New Beta release for 2021 supporting the open-source Dave WebDav server\r\n\nVersion 0.3.0 - Support for RFC4437 Collections (folders)\r\nVersion 0.3.5 - Layout improvements, especially for phones\r\nVersion 0.5.0 - Better performance, error and file type handling.",
   "homeURL": "http://www.aventer.biz/",
   "supportURL": "https://github.com/codepoet80/webos-webdavclient",
-  "custsupportemail": "curator@webosarchive.org",
+  "custsupportemail": "webosarchive@gmail.com",
   "custsupportphonenum": "",
   "copyright": "Copyright 2011-2013 avEnter UG (haftungsbeschränkt), 2022 Jon W",
   "licenseURL": "",
