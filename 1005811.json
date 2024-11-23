@@ -1,0 +1,54 @@
+{
+  "publicApplicationId": "com.motral.yandex-maps",
+  "description": "Yandex Maps loads map tiles from Yandex, Google and OSM -- the latter two still work in 2024, although most location names are in Russian.",
+  "version": "0.3.2",
+  "versionNote": "",
+  "supportURL": "",
+  "homeURL": "",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "Unknown",
+  "licenseURL": "Unknown",
+  "locale": "en_US",
+  "appSize": 1175138,
+  "installSize": 1175138,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2024-11-23T13:04:48-04:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": true
+    }
+  },
+  "price": 0.00,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.motral.yandex-maps_0.3.2_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005811/screenshot1.png",
+      "thumbnail": "1005811/screenshot1.png",
+      "orientation": "P",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005811/screenshot2.png",
+      "thumbnail": "1005811/screenshot2.png",
+      "orientation": "P",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.motral.yandex-maps_0.3.2_all.ipk"
+}
