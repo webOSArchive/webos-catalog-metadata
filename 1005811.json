@@ -40,13 +40,13 @@
     "1": {
       "screenshot": "1005811/screenshot1.png",
       "thumbnail": "1005811/screenshot1.png",
-      "orientation": "P",
+      "orientation": "L",
       "device": "T"
     },
     "2": {
       "screenshot": "1005811/screenshot2.png",
       "thumbnail": "1005811/screenshot2.png",
-      "orientation": "P",
+      "orientation": "L",
       "device": "T"
     }
   },
