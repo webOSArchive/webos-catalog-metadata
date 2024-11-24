@@ -33,7 +33,7 @@
   "price": 1.5,
   "currency": "USD",
   "isAdvertized": false,
-  "filename": "http://stacks.webosarchive.org/apps/com.tehtorq.reddit_0.2.9_all.ipk",
+  "filename": "com.tehtorq.reddit_0.2.9_all.ipk",
   "free": false,
   "touchpad_exclusive": true,
   "images": {
