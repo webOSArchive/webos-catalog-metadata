@@ -38,14 +38,14 @@
   "touchpad_exclusive": false,
   "images": {
     "1": {
-      "screenshot": "320x480_ph_Gizzy_01.png",
-      "thumbnail": "75x112_ph_Gizzy_01.png",
+      "screenshot": "1005812/320x480_ph_Gizzy_01.png",
+      "thumbnail": "1005812/75x112_ph_Gizzy_01.png",
       "orientation": "P",
       "device": "P"
     },
     "2": {
-      "screenshot": "320x480_ph_Gizzy_02.png",
-      "thumbnail": "75x112_ph_Gizzy_02.png",
+      "screenshot": "1005812/320x480_ph_Gizzy_02.png",
+      "thumbnail": "1005812/75x112_ph_Gizzy_02.png",
       "orientation": "P",
       "device": "P"
     }
