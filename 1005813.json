@@ -38,10 +38,10 @@
   "touchpad_exclusive": false,
   "images": {
     "1": {
-      "screenshot": "1005812/320x480_ph_Gizzy_01.png",
-      "thumbnail": "1005812/75x112_ph_Gizzy_01.png",
+      "screenshot": "1005813/screenshot.png",
+      "thumbnail": "1005813/screenshot.png",
       "orientation": "P",
-      "device": "P"
+      "device": "T"
     }
   },
   "originalFileName": "com.palm.webos.appscanner_1.0.0_all.ipk",
