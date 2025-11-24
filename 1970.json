@@ -50,19 +50,19 @@
     "3": {
       "thumbnail": "1970/en/images/3/S/dungeonhunter3_EN.jpg",
       "screenshot": "1970/en/images/3/L/dungeonhunter3_EN.jpg",
-      "orientation": "P",
+      "orientation": "L",
       "device": "P"
     },
     "4": {
       "thumbnail": "1970/en/images/4/S/dungeonhunter4.jpg",
       "screenshot": "1970/en/images/4/L/dungeonhunter4.jpg",
-      "orientation": "P",
+      "orientation": "L",
       "device": "P"
     },
     "5": {
       "thumbnail": "1970/en/images/5/S/dungeonhunter5.jpg",
       "screenshot": "1970/en/images/5/L/dungeonhunter5.jpg",
-      "orientation": "P",
+      "orientation": "L",
       "device": "P"
     }
   },
