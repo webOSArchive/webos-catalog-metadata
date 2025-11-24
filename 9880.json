@@ -4,7 +4,7 @@
   "version": "0.5.5",
   "versionNote": "BibleZ HD is an easy to use offline bible reader app for your TouchPad and Pre3! Reading the Bible the webOS way and enjoy the full bible at your fingertips!\n\nFeatures:\n- many available bibles in different languages (e.g. ESV, KJV, NET (free version), ...)\n- notes\n- bookmarks\n- highlights\n- search (in the sidebar)\n- history of last read scriptures\n- day/night view\n- copy or share a verse via eMail or SMS\n- backup & restore your personal data (like notes)\n\nBibleZ HD is based on the SWORD Project (http://crosswire.org) and licenced under GPLv3.\n\nIf you have any problems with this app just send an eMail to info@zefanjas.de!",
   "homeURL": "http://zefanjas.de/en",
-  "supportURL": "http://zefanjas.de/biblez",
+  "supportURL": "http://stacks.webosarchive.org/bible",
   "custsupportemail": "info@zefanjas.de",
   "custsupportphonenum": "",
   "copyright": "Copyright 2011 zefanjas",
