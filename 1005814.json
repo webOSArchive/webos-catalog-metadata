@@ -1,0 +1,61 @@
+{
+  "publicApplicationId": "com.codepoet.hackermystery",
+  "description": "A hacker mystery with a 90s aesthetic, compatible with webOS 3 and newer browsers.\r\n\nUse your retro-computing skills to connect with the elite Hacker Underground and uncover a conspiracy that spans cyberspace!\r\nChapter 1 - Initial release of the game platform, and the first tantalizing clues in the mystery. Find an ally and unlock the secrets that start your investigation!",
+  "version": "1.1.0",
+  "versionNote": "1.1.0 - Initial public release, includes Chapter 1 of the Game.",
+  "homeURL": "http://hackermystery95.wosa.link",
+  "supportURL": "https://github.com/codepoet80/HackerMystery-JS",
+  "custsupportemail": "webosarchive@gmail.com",
+  "custsupportphonenum": "",
+  "copyright": "Copyright 2026, codepoet",
+  "licenseURL": "MIT",
+  "locale": "en_US",
+  "appSize": 4272170,
+  "installSize": 4272170,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2026-12-25T00:00:00-03:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": true
+    }
+  },
+  "price": 0,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.codepoet.hackermystery_1.1.0_all.ipk",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005814/screenshot1.png",
+      "thumbnail": "1005814/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005814/screenshot2.png",
+      "thumbnail": "1005814/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "3": {
+      "screenshot": "1005814/screenshot2.png",
+      "thumbnail": "1005814/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.codepoet.hackermystery_1.1.0_all.ipk",
+  "starRating": 5
+}
