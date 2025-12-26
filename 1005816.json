@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "org.webosarchive.vlcplayer",
-  "description": "The best media player for any platform is finally available on TouchPad!\r\nSTOP! Do not try to run install this app without is dependencies. The App Museum does not have a mechanism for installing pre-requisites, but if you have QupZilla working then you have everything you need. If you don't have QupZilla or don't know what it is, visit the support link below. If you're 100% sure you've got nivovn's QT packages that support Qupzilla, then you're ready to install VLC.",
+  "description": "The best media player for any platform is finally available on TouchPad!\r\n\nSTOP! Do not try to run install this app without is dependencies!\r\n The App Museum does not have a mechanism for installing pre-requisites, but if you have QupZilla working then you have everything you need. If you don't have QupZilla or don't know what it is, visit the support link below. If you're 100% sure you've got nivovn's QT packages that support Qupzilla, then you're ready to install VLC.",
   "version": "1.0.0",
   "versionNote": "1.0.0 - Initial Release.",
   "homeURL": "https://github.com/webOSArchive/vlc-qt",
