@@ -1,6 +1,6 @@
 {
   "publicApplicationId": "com.starkka.pcsxrearmed",
-  "description": "PCSX ReARMed is a free and open-source PlayStation 1 (PSX) emulator. Its purpose is to emulate the PS1's hardware.\nTouchPad only, runs with hardware acceleration for pretty reasonable game play.\r\n\nThis is a new port for 2026! You will need to provide the BIOS (SCPH1001.BIN) in a folder at \/media\/internal\/pcsx\/bios.\rYou will also need to provide games as bin and cue files.\r\n\nKnown issues:\n- Menu controls some times get stuck. If this happens, swipe away the app, wait a few seconds and re-launch.",
+  "description": "PCSX ReARMed is a free and open-source PlayStation 1 (PSX) emulator. Its purpose is to emulate the PS1's hardware.\nTouchPad only, runs with hardware acceleration for pretty reasonable game play.\r\n\nThis is a new port for 2026! You will need to provide the BIOS (SCPH1001.BIN) in a folder at \/media\/internal\/.pcsx\/bios.\rYou will also need to provide games as bin and cue files.\r\n\nKnown issues:\n- Menu controls some times get stuck. If this happens, swipe away the app, wait a few seconds and re-launch.",
   "version": "1.2.5",
   "versionNote": "1.2.5 - Initial GPU-enabled TouchPad port",
   "homeURL": "https://github.com/Starkka15/PCSX_Rearmed-WebOS",
