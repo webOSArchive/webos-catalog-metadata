@@ -1,0 +1,61 @@
+{
+  "publicApplicationId": "com.starkka.pcsxrearmed",
+  "description": "PCSX ReARMed is a free and open-source PlayStation 1 (PSX) emulator. Its purpose is to emulate the PS1's hardware.\nTouchPad only, runs with hardware acceleration for pretty reasonable game play.\r\n\nThis is a new port for 2026! You will need to provide the BIOS (SCPH1001.BIN) in a folder at \/media\/internal\/pcsx\/bios. You will also need to provide games as bin and cue files.\r\nKnown issues:\n- Menu controls some times get stuck. If this happens, swipe away the app, wait a few seconds and re-launch.",
+  "version": "1.2.5",
+  "versionNote": "1.2.5 - Initial GPU-enabled TouchPad port",
+  "homeURL": "https://github.com/Starkka15/PCSX_Rearmed-WebOS",
+  "supportURL": "https://github.com/Starkka15/PCSX_Rearmed-WebOS",
+  "custsupportemail": "",
+  "custsupportphonenum": "",
+  "copyright": "Copyright 2026, Starkka15",
+  "licenseURL": "GPL 2.0",
+  "locale": "en_US",
+  "appSize": 2446212,
+  "installSize": 2446212,
+  "isEncrypted": false,
+  "adultRating": false,
+  "islocationbased": false,
+  "lastModifiedTime": "2026-01-17T00:00:00-03:00",
+  "mediaLink": null,
+  "mediaIcon": null,
+  "attributes": {
+    "provides": {
+      "noApp": false,
+      "dockMode": false,
+      "universalSearch": false,
+      "connectors": [
+        "null"
+      ],
+      "services": [],
+      "optimizedUserExperience": true
+    }
+  },
+  "price": 0,
+  "currency": "USD",
+  "isAdvertized": false,
+  "filename": "com.starkka.pcsxrearmed_1.0.7_all",
+  "free": true,
+  "touchpad_exclusive": false,
+  "images": {
+    "1": {
+      "screenshot": "1005818/screenshot1.png",
+      "thumbnail": "1005818/screenshot1.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "2": {
+      "screenshot": "1005818/screenshot2.png",
+      "thumbnail": "1005818/screenshot2.png",
+      "orientation": "L",
+      "device": "T"
+    },
+    "3": {
+      "screenshot": "1005818/screenshot3.png",
+      "thumbnail": "1005818/screenshot3.png",
+      "orientation": "L",
+      "device": "T"
+    }
+  },
+  "originalFileName": "com.starkka.pcsxrearmed_1.0.7_all",
+  "starRating": 5
+}
